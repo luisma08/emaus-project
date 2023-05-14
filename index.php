@@ -34,6 +34,10 @@
     <meta property="twitter:image" content="https://luisma08.github.io/collaboration-tecsup-team-5/reto-2/assets/img/hero.webp">
 </head>
 <body class="body"><!--v1.0-->
+    <!-- Agregando componente header -->
+    <?php include('components/header.php') ?>
+    <!-- FIN -->
+
     <main class="main">
         <section class="banner">
             <div class="container f-elements f-elements--responsive gap-sm">

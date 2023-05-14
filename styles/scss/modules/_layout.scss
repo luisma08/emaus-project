@@ -1,0 +1,91 @@
+.section{
+    padding-top: var(--padding-section);
+    padding-bottom: var(--padding-section);
+
+    &__title{
+        font-size: 2rem;
+        @include desktop{
+          font-size: 3.125rem;
+        }
+      }
+
+    &__description{
+        font-size: 1.25rem;
+        @include desktop{
+          font-size: 2.5rem;
+        }
+    }
+
+    &__title, &__description{
+      color:var(--primary-p-color);
+      text-align: center;
+      margin: 0;
+
+      @include desktop{
+        text-align: start;
+      }
+    }
+
+  }
+   
+  .container {
+    max-width: auto;
+    margin: 0 auto;
+    padding-left: var(--padding-container);
+    padding-right: var(--padding-container);
+    
+    @include desktop{
+      padding-left: var(--padding-responsive);
+      padding-right: var(--padding-responsive);
+    }
+  }
+  
+  .f-elements{
+    display: flex;
+
+    &--between{
+        align-items: center;
+        justify-content: space-between;
+    }
+      
+    &--center{
+        align-items: center;
+        justify-content: center;
+    }
+    
+    &--responsive{
+        flex-direction: column;
+
+        @include desktop{
+          flex-direction: row;
+        }
+    }
+
+  }
+  
+  
+  
+  .g-elements{
+    display: grid;
+
+    &--responsive{
+        grid-template-columns: 100%;
+
+        @include desktop{
+          grid-template-columns: 1fr 1fr;
+        }
+    }
+
+    &--center{
+        align-items: center;
+        justify-content: center;
+        justify-items: center;
+      }
+
+  }
+  
+  .g-template-columns{
+    @include desktop{
+      grid-template-columns: 1fr 1fr 1fr;
+    }
+  }

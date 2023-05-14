@@ -1,0 +1,15 @@
+.slider {
+    max-width: 360px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.swiper{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    &-pagination{
+        position: static!important;
+    }
+}

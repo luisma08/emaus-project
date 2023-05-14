@@ -1,0 +1,49 @@
+.d-none{
+    display: none;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.mt-auto{
+    margin-top: 1rem;
+}
+
+.scroll{
+    background-color: var(--primary-theme-color);
+}
+  
+.f-col{
+    flex-direction: column;
+}
+
+.flex-1{
+    flex:1;
+}
+
+.gap-sm{
+    gap: calc(var(--padding-section) * 0.5);
+}
+.gap-md{
+    gap: var(--padding-section);
+}
+
+.gap-lg{
+    gap: calc(var(--padding-section) * 2.5);
+}
+
+.p-relative{
+    position: relative;
+}
+
+.md\:f-row{
+    @include desktop{
+        flex-direction: row;
+    }
+}
+.md\:d-block{
+    @include desktop{
+        display: block;
+    }
+}

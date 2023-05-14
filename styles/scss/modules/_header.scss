@@ -1,0 +1,24 @@
+.header{
+    position: fixed;
+    box-shadow: 0 0 0.125rem 0.125rem var(--reverse-primary-shadow-color);
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+
+    &__container{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+
+        &-logo{
+            margin: auto;
+        }
+
+        &-nav{
+            position: relative;
+            background-color: var(--primary-theme-color);
+        }
+    }
+
+}

@@ -401,9 +401,6 @@
   height: 256px;
   border: none;
 }
-.card:hover {
-  box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);
-}
 .card__header, .card__footer {
   padding: 1rem;
 }
@@ -424,13 +421,13 @@
 }
 .card__body-services {
   color: var(--primary-text-color);
-  padding: 1.2rem;
 }
 .card__title {
   font-size: 1.5rem;
   text-align: center;
   margin: 0;
   font-weight: 700;
+  text-transform: uppercase;
 }
 .card__subtitle {
   font-size: 1.25rem;
@@ -453,7 +450,7 @@
   .icon{
     animation: t-rotate 2.5s linear infinite;
   }
-  */
+*/
 .form {
   background-color: var(--secondary-text-color);
   padding: 1.125rem;

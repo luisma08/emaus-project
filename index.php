@@ -54,32 +54,82 @@
                         <div class="swiper mySwiper1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center">
+                                    <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
                                             <img src="./assets/icon/ico-respeto.svg" alt="" class="icon" width="143" height="126">
                                         </div>
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <h3 class="card__title">Respeto</h3>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de juguetes para niños</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center">
+                                    <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
                                             <img src="./assets/icon/ico-solidaridad.svg" alt="" class="icon" width="143" height="126">
                                         </div>
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <h3 class="card__title">Solidaridad</h3>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de ropas en desuso</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card f-elements f-col f-elements--center">
+                                    <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
                                             <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="143" height="126">
                                         </div>
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <h3 class="card__title">Responsabilidad</h3>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de calzados en desuso</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__services f-elements f-col f-elements--center">
+                                        <div class="card__img-icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                        </div>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de aparatos tecnológicos</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__services f-elements f-col f-elements--center">
+                                        <div class="card__img-icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                        </div>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de víveres no perecibles</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__services f-elements f-col f-elements--center">
+                                        <div class="card__img-icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                        </div>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de electrodomésticos</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__services f-elements f-col f-elements--center">
+                                        <div class="card__img-icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                        </div>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de aparatos ortopédicos</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card card__services f-elements f-col f-elements--center">
+                                        <div class="card__img-icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                        </div>
+                                        <div class="card__body-services f-elements f-col f-elements--center">
+                                            <h3 class="card__title">Donación de muebles en desuso</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -87,8 +137,8 @@
                             <!--
                             <div class="swiper-button-next"></div>
                             <div class="swiper-button-prev"></div>
-                            -->
                             <div class="swiper-pagination"></div>
+                            -->
                         </div>
                     </div>
                 </div>

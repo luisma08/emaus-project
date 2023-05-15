@@ -13,10 +13,10 @@
       //border: 0.0125rem solid var(--secondary-border-color);
     }
     
-    &:hover {
-      box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);
+    //&:hover {
+    //  box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);
       //transform: scale(1.125);
-    }
+    //}
     
     &__header,
     &__footer {
@@ -47,7 +47,7 @@
 
       &-services {
           color: var(--primary-text-color);
-          padding: 1.2rem;
+          //padding: 1.2rem;
         }
         
     }
@@ -57,6 +57,7 @@
       text-align: center;
       margin: 0;
       font-weight: 700;
+      text-transform: uppercase;
     }
     
     &__subtitle {
@@ -85,4 +86,4 @@
   .icon{
     animation: t-rotate 2.5s linear infinite;
   }
-  */
+*/

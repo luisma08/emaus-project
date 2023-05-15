@@ -43,7 +43,7 @@
             <div class="container f-elements f-elements--responsive gap-sm">
                 <div class="banner__container">
                     <h1 class="banner__title">Traperos de Emaús <span class="banner__title-span">Donaciones</span></h1>
-                    <h2 class="banner__subtitle">Dona desde la comodidad de tu hogar</h2>
+                    <h2 class="banner__subtitle">¡Dona desde la comodidad de tu hogar!</h2>
                     <p class="banner__description">
                         Todo lo útil que ya no necesites nos permitirá mensualmente ayudar a los más necesitados
                     </p>

@@ -2,7 +2,7 @@
     <nav class="nav f-elements f-elements--between" id="header-nav">
         <div class="header__container-logo">
             <a href="index.html">
-                <img src="./assets/img/webp/logoBlanco.webp" alt="logo" class="nav__logo">
+                <img src="./assets/img/logo/logo-emaus.webp" alt="logo" class="nav__logo">
             </a>
         </div>
         <div class="container f-elements f-elements--between p-relative">

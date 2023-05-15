@@ -260,12 +260,10 @@
 }
 
 .banner {
-  /*
-  background-image: url("../../assets/img/webp/banner-1.webp");
+  --opacidad-negro: 0.5;
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.webp");
   background-repeat: no-repeat;
-  background-size: cover;*/
-  background: rgb(220, 0, 88);
-  background: linear-gradient(90deg, rgba(220, 0, 88, 0.8463760504) 0%, rgb(220, 0, 88) 10%, rgba(220, 0, 88, 0.8351715686) 100%);
+  background-size: 100% 768px;
   box-sizing: border-box;
   padding-top: 2rem;
 }
@@ -313,7 +311,7 @@
 }
 .banner__description {
   font-size: 1.2rem;
-  color: var(--reverse-primary-text-color);
+  color: var(--third-text-color);
 }
 .banner__img {
   margin: 0 auto;

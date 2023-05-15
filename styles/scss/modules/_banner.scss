@@ -1,10 +1,11 @@
 .banner{
-    /*
-    background-image: url("../../assets/img/webp/banner-1.webp");
+    --opacidad-negro: 0.5;
+    background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.webp");
     background-repeat: no-repeat;
-    background-size: cover;*/
-    background: rgb(220,0,88);
-    background: linear-gradient(90deg, rgba(220,0,88,0.8463760504201681) 0%, rgba(220,0,88,1) 10%, rgba(220,0,88,0.835171568627451) 100%);
+    background-size: 100% 768px;
+    //object-fit: cover;
+    //background: rgb(220,0,88);
+    //background: linear-gradient(90deg, rgba(220,0,88,0.8463760504201681) 0%, rgba(220,0,88,1) 10%, rgba(220,0,88,0.835171568627451) 100%);
     box-sizing: border-box;
     //margin-top: 2rem;
     padding-top: 2rem;
@@ -54,7 +55,7 @@
     
     &__description{
         font-size: 1.2rem;
-        color: var(--reverse-primary-text-color);
+        color: var(--third-text-color);
     }
 
     &__img{

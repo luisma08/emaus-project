@@ -14,10 +14,10 @@
                 </a>
             <ul class="list list--header f-elements f-col gap-md f-elements--center md:f-row">
                 <li>
-                    <a href="#services" class="list__link">Servicios</a>
+                    <a href="#services" class="list__link">Nosotros</a>
                 </li>
                 <li>
-                    <a href="#projects" class="list__link">Portafolio</a>
+                    <a href="#projects" class="list__link">Donaciones</a>
                 </li>
                 <li>
                     <a href="#contact" class="list__link">Contacto</a>

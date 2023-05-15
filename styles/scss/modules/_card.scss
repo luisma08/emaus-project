@@ -30,12 +30,13 @@
       height: 200px;
       object-fit: cover;
       &-icon{
-          width: 13rem;
+          width: 80px;
+          height: 80px;
           margin: 2rem auto;
-          //padding: 0rem 0rem;
-          //background-color: var(--primary-bg-color);
-          //color: var(--reverse-primary-text-color);
-          //border-radius: 50%;
+          padding: 2rem 2rem;
+          background-color: var(--primary-bg-color);
+          color: var(--reverse-primary-text-color);
+          border-radius: 50%;
         }
     }
     

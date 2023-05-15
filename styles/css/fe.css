@@ -263,9 +263,10 @@
   --opacidad-negro: 0.5;
   background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.webp");
   background-repeat: no-repeat;
-  background-size: 100% 900px;
+  background-size: 100% 100vh;
   box-sizing: border-box;
   padding-top: 6.65rem;
+  height: 100vh;
 }
 .banner__container {
   display: flex;
@@ -289,29 +290,41 @@
   text-transform: uppercase;
 }
 .banner__title {
-  font-size: 2rem;
+  font-size: 2.625rem;
   color: var(--third-text-color);
 }
 @media (min-width: 768px) {
   .banner__title {
-    font-size: 3rem;
+    font-size: 3.625rem;
   }
 }
 .banner__title-span {
   color: var(--span-text-color);
+  font-size: 2rem;
+  font-weight: 800;
 }
 @media (min-width: 768px) {
   .banner__title-span {
-    font-size: 3.438rem;
+    font-size: 2.625rem;
   }
 }
 .banner__subtitle {
-  font-size: 1.5rem;
+  font-size: 1.625rem;
   color: var(--third-text-color);
 }
+@media (min-width: 768px) {
+  .banner__subtitle {
+    font-size: 2.625rem;
+  }
+}
 .banner__description {
-  font-size: 1.2rem;
+  font-size: 1.325rem;
   color: var(--third-text-color);
+}
+@media (min-width: 768px) {
+  .banner__description {
+    font-size: 2rem;
+  }
 }
 .banner__img {
   margin: 0 auto;
@@ -332,18 +345,24 @@
   border: 0.0625rem solid var(--primary-theme-color);
   border-radius: var(--primary-border-radius);
   color: var(--primary-text-color);
-  font-size: 1.25rem;
+  font-size: 1.325rem;
   text-decoration: none;
   font-weight: 600;
   font-family: var(--primary-font-family);
   padding: 0.563rem 1.25rem;
   cursor: pointer;
-  transition: box-shadow 0.25s, filter 0.25s;
+  transition: box-shadow 0.25s, filter 0.25s, color 0.25s;
   text-transform: uppercase;
+}
+@media (min-width: 768px) {
+  .button {
+    font-size: 1.625rem;
+  }
 }
 .button:hover {
   box-shadow: 0 0 0.125rem 0.125rem var(--primary-theme-color);
   filter: brightness(1.125);
+  color: var(--reverse-primary-text-color);
 }
 .button--primary {
   background-color: var(--primary-highlight-color);
@@ -411,8 +430,13 @@
   object-fit: cover;
 }
 .card__img-icon {
-  width: 13rem;
+  width: 80px;
+  height: 80px;
   margin: 2rem auto;
+  padding: 2rem 2rem;
+  background-color: var(--primary-bg-color);
+  color: var(--reverse-primary-text-color);
+  border-radius: 50%;
 }
 .card__body {
   background-color: var(--reverse-secondary-shadow-color);

@@ -13,9 +13,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <link rel="shortcut icon" href="assets/icon/html-coding-svgrepo-com.svg" type="image/svg+xml">
+    <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
     <!-- Primary Meta Tags -->
-    <title>Full Stack - Freelancer</title>
+    <title>Traperos de Emaús - Manos Solidarias</title>
     <meta name="title" content="Desarrollo Web Full Stack">
     <meta name="description" content="Desarrollador web Full Stack, potenciamos tu negocio a traves de nuestros servicios de desarrollo web.">
 
@@ -56,7 +56,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-respeto.svg" alt="" class="icon" width="143" height="126">
+                                            <img src="./assets/icon/juguetes-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de juguetes para niños</h3>
@@ -66,7 +66,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-solidaridad.svg" alt="" class="icon" width="143" height="126">
+                                            <img src="./assets/icon/ropa-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de ropas en desuso</h3>
@@ -76,7 +76,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="143" height="126">
+                                            <img src="./assets/icon/calzado-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de calzados en desuso</h3>
@@ -86,7 +86,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                            <img src="./assets/icon/tecnologia-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de aparatos tecnológicos</h3>
@@ -96,7 +96,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                            <img src="./assets/icon/alimentos-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de víveres no perecibles</h3>
@@ -106,7 +106,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                            <img src="./assets/icon/electrodomestico-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de electrodomésticos</h3>
@@ -116,7 +116,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                            <img src="./assets/icon/ortopedicos-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de aparatos ortopédicos</h3>
@@ -126,7 +126,7 @@
                                 <div class="swiper-slide">
                                     <div class="card card__services f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="auto" height="126">
+                                            <img src="./assets/icon/muebles-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de muebles en desuso</h3>

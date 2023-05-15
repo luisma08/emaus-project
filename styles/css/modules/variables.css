@@ -2,7 +2,7 @@
     scroll-behavior: smooth;
     --primary-theme-color: #07775E;
     --secondary-theme-color: #282c34;
-    --primary-bg-color: white;
+    --primary-bg-color: #07775E;
     --primary-text-color: #fff;
     --secondary-text-color: #888;
     --third-text-color: white;
@@ -26,7 +26,7 @@
     --max-width-container: 1024px;
     --padding-section: 1.5rem;
     --padding-container: 1.25rem;
-    --padding-responsive: 15rem;
+    --padding-responsive: 10rem;
     --primary-border-radius: 0.5rem;
     --nav-primary-font-size: 1.125rem;
     --primary-text-font-size: 1.5rem;

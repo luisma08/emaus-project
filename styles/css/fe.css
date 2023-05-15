@@ -286,7 +286,7 @@
     text-align: start;
   }
 }
-.banner__title, .banner__description {
+.banner__title, .banner__subtitle, .banner__description {
   margin: 0;
   text-transform: uppercase;
 }
@@ -306,6 +306,10 @@
   .banner__title-span {
     font-size: 3.438rem;
   }
+}
+.banner__subtitle {
+  font-size: 1.5rem;
+  color: var(--third-text-color);
 }
 .banner__description {
   font-size: 1.2rem;

@@ -42,11 +42,12 @@
         <section class="banner">
             <div class="container f-elements f-elements--responsive gap-sm">
                 <div class="banner__container">
-                    <h2 class="banner__title">Contáctanos y obtén tu asesoría en marketing digital <span class="banner__title-span">gratis</span></h2>
+                    <h1 class="banner__title">Traperos de Emaús <span class="banner__title-span">Donaciones</span></h1>
+                    <h2 class="banner__subtitle">Dona desde la comodidad de tu hogar</h2>
                     <p class="banner__description">
-                        Potencia tus ventas con nuestros proyectos web enfocado a resultados.
+                        Todo lo útil que ya no necesites nos permitirá mensualmente ayudar a los más necesitados
                     </p>
-                    <a class="button button--outline-secondary" href="#contact">Cotiza con nosotros</a>
+                    <a class="button button--outline-secondary" href="#contact">Ayudanos a Donar</a>
                 </div>
                 <div class="banner__img f-elements f-col f-elements--center">
                     <img src="https://www.mavoagenciadigital.com/wp-content/uploads/2022/10/google-expert-1.png.webp" alt="" class="banner__img-hero">

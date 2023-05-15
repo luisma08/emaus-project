@@ -9,7 +9,10 @@ var slideContainer4 = document.querySelector('.mySwiper4');
 
 var swiper1 = new Swiper(slideContainer1, {
     effect: "flip",
-    grabCursor: true,
+    autoplay:{
+      delay:3000,
+    },
+    loop: true,
     pagination: {
       el: ".swiper-pagination",
     },
@@ -85,15 +88,15 @@ var swiper4 = new Swiper(slideContainer4, {
 
 //event hover
 
-  slideContainer1.addEventListener('mouseenter', () => {
+  //slideContainer1.addEventListener('mouseenter', () => {
     //swiper.autoplay.start();
-    swiper1.slideNext();
-  });
+  //  swiper1.slideNext();
+  //});
 
-  slideContainer1.addEventListener('mouseleave', () => {
+  //slideContainer1.addEventListener('mouseleave', () => {
     //swiper.autoplay.stop();
-    swiper1.slideTo(0);
-  });
+  //  swiper1.slideTo(0);
+  //});
 
   slideContainer2.addEventListener('mouseenter', () => {
     //swiper.autoplay.start();

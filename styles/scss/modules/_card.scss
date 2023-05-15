@@ -1,16 +1,16 @@
 .card {
-    box-shadow: 0 0 0.125rem var(--primary-shadow-color),
-    0 0 0.25rem var(--primary-shadow-color);
-    border-radius: var(--primary-border-radius);
+    //box-shadow: 0 0 0.125rem var(--primary-shadow-color), 0 0 0.25rem var(--primary-shadow-color);
+    //border-radius: var(--primary-border-radius);
     max-width: 360px;
     overflow: hidden;
-    transition: box-shadow 0.25s;
+    //transition: box-shadow 0.25s;
     margin: auto;
     //transition: transform 0.25s;
 
     &__services {
       height: 256px;
-      border: 0.0125rem solid var(--secondary-border-color);
+      border: none;
+      //border: 0.0125rem solid var(--secondary-border-color);
     }
     
     &:hover {
@@ -46,7 +46,7 @@
       height: 150px;
 
       &-services {
-          color: var(--secondary-p-color);
+          color: var(--primary-text-color);
           padding: 1.2rem;
         }
         
@@ -81,7 +81,8 @@
     }
       
   }
-
+/*
   .icon{
     animation: t-rotate 2.5s linear infinite;
   }
+  */

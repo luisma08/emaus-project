@@ -47,42 +47,39 @@
                     <p class="banner__description">
                         Todo lo útil que ya no necesites nos permitirá mensualmente ayudar a los más necesitados
                     </p>
-                    <a class="button button--outline-secondary" href="#contact">Ayudanos a Donar</a>
+                    <a class="button button--primary" href="#contact">Ayudanos a Donar</a>
                 </div>
                 <div class="banner__img f-elements f-col f-elements--center">
-                    <img src="https://www.mavoagenciadigital.com/wp-content/uploads/2022/10/google-expert-1.png.webp" alt="" class="banner__img-hero">
-                </div>
-            </div>
-        </section>
-        <section class="section" id="services">
-            <div class="container f-elements f-col gap-md">
-              <h2 class="section__title">¿Qué hacemos?</h2>
-              <p class="section__description">Contamos con las mejores soluciones en:</p>
-              <div class="g-elements g-elements--center gap-md g-template-columns">
                     <div class="slider f-elements f-col">
                         <div class="swiper mySwiper1">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <div class="card card__services f-elements f-col f-elements--center">
+                                    <div class="card f-elements f-col f-elements--center">
                                         <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/icon-pagina-web-2.svg" alt="" class="icon" width="143" height="126">
+                                            <img src="./assets/icon/ico-respeto.svg" alt="" class="icon" width="143" height="126">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <h3 class="card__title">Paginas Webs</h3>
+                                            <h3 class="card__title">Respeto</h3>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="card card__services f-elements f-col f-elements--center">
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <p class="card__text">
-                                                Diseño web personalizado con ideas estratégicas para convertir visitantes en clientes.
-                                            </p>
+                                    <div class="card f-elements f-col f-elements--center">
+                                        <div class="card__img-icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ico-solidaridad.svg" alt="" class="icon" width="143" height="126">
                                         </div>
-                                        <div class="card__footer">
-                                            <div class="f-elements f-elements--center gap-md">
-                                                <a href="#contact" rel="noopener noreferrer" class="button button--primary">Solicitar</a>
-                                            </div>
+                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
+                                            <h3 class="card__title">Solidaridad</h3>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="card f-elements f-col f-elements--center">
+                                        <div class="card__img-icon f-elements f-elements--center">
+                                            <img src="./assets/icon/ico-responsabilidad.svg" alt="" class="icon" width="143" height="126">
+                                        </div>
+                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
+                                            <h3 class="card__title">Responsabilidad</h3>
                                         </div>
                                     </div>
                                 </div>
@@ -94,6 +91,14 @@
                             <div class="swiper-pagination"></div>
                         </div>
                     </div>
+                </div>
+            </div>
+        </section>
+        <section class="section" id="services">
+            <div class="container f-elements f-col gap-md">
+              <h2 class="section__title">¿Qué hacemos?</h2>
+              <p class="section__description">Contamos con las mejores soluciones en:</p>
+              <div class="g-elements g-elements--center gap-md g-template-columns">
                     <div class="slider">
                         <div class="swiper mySwiper2">
                             <div class="swiper-wrapper">

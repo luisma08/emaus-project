@@ -14,24 +14,26 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
-    <!-- Primary Meta Tags -->
-    <title>Traperos de Emaús - Manos Solidarias</title>
-    <meta name="title" content="Desarrollo Web Full Stack">
-    <meta name="description" content="Desarrollador web Full Stack, potenciamos tu negocio a traves de nuestros servicios de desarrollo web.">
+    <!-- HTML Meta Tags -->
+    <title>✅Traperos de Emaús ▷ Manos Solidarias ◁</title>
+    <meta name="description" content="Donde donar Cosas Usadas ❤️ recogemos gratis en todo Lima ✅ejecutando los protocolos de bioseguridad✅ Llámenos ✆ 923995006, 7574747">
 
-    <!-- Open Graph / Facebook -->
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://emausmanossolidarias.org.pe/">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://luisma08.github.io/collaboration-tecsup-team-5/reto-2/assets/img/hero.webp">
-    <meta property="og:title" content="Desarrollo Web Full Stack">
-    <meta property="og:description" content="Desarrollador web Full Stack, potenciamos tu negocio a traves de nuestros servicios de desarrollo web.">
-    <meta property="og:image" content="https://luisma08.github.io/collaboration-tecsup-team-5/reto-2/assets/img/hero.webp">
+    <meta property="og:title" content="✅Traperos de Emaús ▷ Manos Solidarias ◁">
+    <meta property="og:description" content="Donde donar Cosas Usadas ❤️ recogemos gratis en todo Lima ✅ejecutando los protocolos de bioseguridad✅ Llámenos ✆ 923995006, 7574747">
+    <meta property="og:image" content="">
 
-    <!-- Twitter -->
-    <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://luisma08.github.io/collaboration-tecsup-team-5/reto-2/assets/img/hero.webp">
-    <meta property="twitter:title" content="Desarrollo Web Full Stack">
-    <meta property="twitter:description" content="Desarrollador web Full Stack, potenciamos tu negocio a traves de nuestros servicios de desarrollo web.">
-    <meta property="twitter:image" content="https://luisma08.github.io/collaboration-tecsup-team-5/reto-2/assets/img/hero.webp">
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="emausmanossolidarias.org.pe">
+    <meta property="twitter:url" content="https://emausmanossolidarias.org.pe/">
+    <meta name="twitter:title" content="✅Traperos de Emaús ▷ Manos Solidarias ◁">
+    <meta name="twitter:description" content="Donde donar Cosas Usadas ❤️ recogemos gratis en todo Lima ✅ejecutando los protocolos de bioseguridad✅ Llámenos ✆ 923995006, 7574747">
+    <meta name="twitter:image" content="">
+
+    <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 </head>
 <body class="body"><!--v1.0-->
     <!-- Agregando componente header -->

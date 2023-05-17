@@ -158,7 +158,7 @@
 
         <section class="section" id="projects">
             <div class="container f-elements f-col gap-md">
-              <p class="section__title">Tu donacion se convierte en</p>
+              <p class="section__description">Tu donacion se convierte en</p>
               <h3 class="section__title">Actividades Sociales</h3>
               <div class="f-elements f-col f-elements--center">
                     <div class="swiper mySwiper4"">

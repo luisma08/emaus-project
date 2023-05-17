@@ -12,7 +12,7 @@
     &__description{
         font-size: 1.25rem;
         @include desktop{
-          font-size: 2.5rem;
+          font-size: 2rem;
         }
     }
 
@@ -20,10 +20,6 @@
       color:var(--primary-p-color);
       text-align: center;
       margin: 0;
-
-      @include desktop{
-        text-align: start;
-      }
     }
 
   }

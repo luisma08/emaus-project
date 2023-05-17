@@ -426,41 +426,37 @@
         
         <section class="contact" id="contact">
             <div class="container f-elements f-elements--center f-col gap-sm">
-                <div class="section__title">
-                    <p class="contact__title">Ayudanos con tu donacion</p>
-                    <p class="contact__description">¡ Recojemos a domicilio !</p>
-                </div>
-                <div class="f-elements f-elements--center f-col md:f-row gap-sm">
-                    <form action="" class="form f-elements f-col gap-sm">
-                        <div class="form__container f-elements f-col gap-sm">
-                            <div class="form__request f-elements f-col gap-sm">
-                                <label for="name" class="form__label">Nombre</label>
-                                <input type="text" placeholder="Nombre completo" class="form__input" id="name"/>
-                            </div>
-                            <div class="form__request f-elements f-col gap-sm">
-                                <label for="mail" class="form__label">Correo</label>
-                                <input type="email" name="mail" id="mail" placeholder="Correo electronico" required class="form__input" id="mail"/>
-                            </div>
-                            <div class="form__request f-elements f-col gap-sm">
-                                <label for="serv" class="form__label">Esoja uno de nuestros servicios</label>
-                                <select id="serv" name="listaservicios" class="form__input">
-                                    <option disabled selected>Selecciona el servicio</option>
-                                    <option>Diseño Web</option>
-                                    <option>Aplicaciones Web</option>
-                                    <option>E-Commerce</option>
-                                </select>
-                            </div>
-                            <div class="form__request f-elements f-col gap-sm">
-                                <label for="description" class="form__label">Mensaje</label>
-                                <textarea name="" placeholder="Comentarios" required class="form__textarea" id="description"></textarea>
-                            </div>
-                            <div id="response"></div>
-                            <div class="form__button">
-                                <button class="button button--primary" id="submit">Enviar a Whatsapp</button>
-                            </div>
+                <div class="f-elements f-elements--center f-col border__dotted">
+                    <div class="contact__header">
+                        <div class="f-elements f-elements--center">
+                            <img src="./assets/img/logo/logo-emaus.webp" alt="logo" class="contact__logo" />
                         </div>
-                    </form>
-                    <script src="js/form.js"></script>
+                        <p class="contact__title">Ayudanos con tu donacion</p>
+                        <p class="contact__description">¡ Recogemos a domicilio !</p>
+                    </div>
+                    <div class="f-elements f-elements--center f-col md:f-row gap-sm w-100">
+                        <form action="" class="form f-elements f-col gap-sm">
+                            <div class="f-elements f-col gap-sm">
+                                <div class="f-elements f-col gap-sm">
+                                    <input type="text" placeholder="Nombre completo" class="form__input" id="name"/>
+                                </div>
+                                <div class="f-elements f-col gap-sm">
+                                    <input type="email" name="mail" id="mail" placeholder="Correo electronico" required class="form__input" id="mail"/>
+                                </div>
+                                <div class="f-elements f-col gap-sm">
+                                    <input type="tel" name="tel" id="tel" placeholder="Teléfono / Celular" required class="form__input" id="tel"/>
+                                </div>
+                                <div class="f-elements f-col gap-sm">
+                                    <textarea name="" placeholder="Comentarios" required class="form__textarea" id="description"></textarea>
+                                </div>
+                                <div id="response"></div>
+                                <div class="form__button">
+                                    <button class="button button--primary" id="submit">Deseo donar</button>
+                                </div>
+                            </div>
+                        </form>
+                        <script src="js/form.js"></script>
+                    </div>
                 </div>
             </div>
         </section>

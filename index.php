@@ -10,10 +10,15 @@
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css"
     />
+
+    <!-- FONT FAMILY -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <!-- ICON -->
     <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
+
     <!-- HTML Meta Tags -->
     <title>Traperos de Emaús - Manos Solidarias [ Donaciones ]</title>
     <meta name="description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">

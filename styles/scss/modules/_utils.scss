@@ -47,3 +47,13 @@
         display: block;
     }
 }
+
+.bg-green{
+    background-color: var(--primary-theme-color);
+}
+
+.bg-green .section{
+    &__description{
+        color: var(--primary-text-color);
+    }
+}

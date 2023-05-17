@@ -154,6 +154,19 @@
             </div>
         </section>
 
+        <!-- Seccion CTA -->
+
+        <section class="section bg-green">
+            <div class="container f-elements f-col gap-md md:row">
+                <p class="section__description">
+                    Dona desde tu hogar o trabajo
+                </p>
+                <div class="f-elements f-elements--center">
+                    <a class="button button--primary" href="tel:923995006"><i class="bi bi-telephone"></i> Llamanos</a>
+                </div>
+            </div>
+        </section>
+
         <!--  Actividades Sociales  -->
 
         <section class="section" id="projects">

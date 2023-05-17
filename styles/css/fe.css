@@ -51,6 +51,14 @@
   }
 }
 
+.bg-green {
+  background-color: var(--primary-theme-color);
+}
+
+.bg-green .section__description {
+  color: var(--primary-text-color);
+}
+
 .section {
   padding-top: var(--padding-section);
   padding-bottom: var(--padding-section);

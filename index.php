@@ -56,7 +56,7 @@
                     <p class="banner__description">
                         Todo lo útil que ya no necesites nos permitirá mensualmente ayudar a los más necesitados
                     </p>
-                    <a class="button button--primary" href="#contact">Ayudanos a Donar</a>
+                    <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Ayudanos a Donar</a>
                 </div>
                 <div class="banner__img f-elements f-col f-elements--center">
                     <div class="slider f-elements f-col">
@@ -173,7 +173,7 @@
             <div class="container f-elements f-col gap-md">
               <p class="section__description">Tu donacion se convierte en</p>
               <h3 class="section__title">Actividades Sociales</h3>
-              <div class="f-elements f-col f-elements--center">
+              <div class="f-elements f-col f-elements--center gap-md">
                     <div class="swiper mySwiper4"">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
@@ -337,8 +337,11 @@
                                 </div>
                             </div>
                         </div>
+                        <!--
                         <div class="swiper-pagination mt-auto"></div>
+                        -->
                     </div>
+                    <a class="button button--primary" href=""><i class="bi bi-balloon-heart"></i> Ver más</a>
                 </div>
             </div>
         </section>
@@ -424,7 +427,7 @@
         </section>
         -->
         
-        <section class="contact" id="contact">
+        <section class="contact py-sm" id="contact">
             <div class="container f-elements f-elements--center f-col gap-sm">
                 <div class="f-elements f-elements--center f-col border__dotted">
                     <div class="contact__header">

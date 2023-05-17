@@ -15,25 +15,27 @@
     <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
     <!-- HTML Meta Tags -->
-    <title>✅Traperos de Emaús ▷ Manos Solidarias ◁</title>
-    <meta name="description" content="Donde donar Cosas Usadas ❤️ recogemos gratis en todo Lima ✅ejecutando los protocolos de bioseguridad✅ Llámenos ✆ 923995006, 7574747">
+    <title>Traperos de Emaús - Manos Solidarias [ Donaciones ]</title>
+    <meta name="description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta name="keywords" content="donar, donaciones, donacion, compartir, solidaridad, dar, traperos, emaus, niños, familias, comunidades, asentamientos, peru, lima, objetos usados, artículos, usados, ayuda, apoyo, mundo mejor, vivir, reciclaje, medio ambiente, donemos, necesidad, fundacion, ong, reusa, reutilizar, utilidad, sustentable, colaborar, cooperación, colaborar, cosas usadas, donar cosas usadas, basura cero, planeta, mundo, lima peru, beneficencia,  ropa usada, ropa vieja, donar ropa, donar ropa usada, dona, donacion de ropa usada, donacion de ropa, donacion de ropa vieja, ropa, ropa usada, prendas de vestir, pantalones, ropa en desuso, camisas, polos, casacas, chompas, abrigos, vestidos, zapatos, zapatillas, donaciones de ropa usada, donaciones de ropa vieja, donaciones de ropa en desuso">
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://emausmanossolidarias.org.pe/">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="✅Traperos de Emaús ▷ Manos Solidarias ◁">
-    <meta property="og:description" content="Donde donar Cosas Usadas ❤️ recogemos gratis en todo Lima ✅ejecutando los protocolos de bioseguridad✅ Llámenos ✆ 923995006, 7574747">
-    <meta property="og:image" content="">
+    <meta property="og:title" content="Traperos de Emaús - Manos Solidarias [ Donaciones ]">
+    <meta property="og:description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta property="og:image" content="https://emausmanossolidarias.org.pe/img/logo.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="emausmanossolidarias.org.pe">
     <meta property="twitter:url" content="https://emausmanossolidarias.org.pe/">
-    <meta name="twitter:title" content="✅Traperos de Emaús ▷ Manos Solidarias ◁">
-    <meta name="twitter:description" content="Donde donar Cosas Usadas ❤️ recogemos gratis en todo Lima ✅ejecutando los protocolos de bioseguridad✅ Llámenos ✆ 923995006, 7574747">
-    <meta name="twitter:image" content="">
+    <meta name="twitter:title" content="Traperos de Emaús - Manos Solidarias [ Donaciones ]">
+    <meta name="twitter:description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta name="twitter:image" content="https://emausmanossolidarias.org.pe/img/logo.png">
 
     <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+    
 </head>
 <body class="body"><!--v1.0-->
     <!-- Agregando componente header -->

@@ -8,7 +8,7 @@
     //transition: transform 0.25s;
 
     &__services {
-      height: 256px;
+      height: auto;
       border: none;
       //border: 0.0125rem solid var(--secondary-border-color);
     }
@@ -32,12 +32,17 @@
       &-icon{
           width: 80px;
           height: 80px;
-          margin: 2rem auto;
+          margin: 0.5rem 2rem;
           padding: 2rem 2rem;
           background-color: var(--primary-bg-color);
           color: var(--reverse-primary-text-color);
           border-radius: 50%;
+
+          @include desktop{
+            margin: 2rem;
+          }
         }
+
     }
     
       

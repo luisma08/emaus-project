@@ -146,6 +146,7 @@
                 </div>
             </div>
         </section>
+        <!-- SECCIONES PARA ACTUALIZAR
         <section class="section" id="services">
             <div class="container f-elements f-col gap-md">
               <h2 class="section__title">¿Qué hacemos?</h2>
@@ -179,10 +180,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--
+                            
                             <div class="swiper-button-next"></div>
                             <div class="swiper-button-prev"></div>
-                            -->
+                            
                             <div class="swiper-pagination"></div>
                         </div>
                     </div>
@@ -214,10 +215,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <!--
+                            
                             <div class="swiper-button-next"></div>
                             <div class="swiper-button-prev"></div>
-                            -->
+                            
                             <div class="swiper-pagination"></div>
                         </div>
                     </div>
@@ -380,6 +381,8 @@
                 </div>
             </div>
         </section>
+
+        -->
     </main>
     <footer class="footer">
         <div class="container f-elements f-col md:f-row f-elements--between gap-md">

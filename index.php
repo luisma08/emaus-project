@@ -422,19 +422,16 @@
                 </div>
             </div>
         </section>
-        <section class="section" id="contact">
-            <div class="container bg-color f-elements f-elements--center f-col gap-sm">
+        -->
+        
+        <section class="contact" id="contact">
+            <div class="container f-elements f-elements--center f-col gap-sm">
                 <div class="section__title">
-                    <h2 class="contact__title">¿QUIERES QUE HABLEMOS DE TU PROYECTO?</h2>
+                    <p class="contact__title">Ayudanos con tu donacion</p>
+                    <p class="contact__description">¡ Recojemos a domicilio !</p>
                 </div>
                 <div class="f-elements f-elements--center f-col md:f-row gap-sm">
-                    <div class="form__img">
-                        <img src="assets/img/3d estrategia (1) 1 (1).webp" alt="" class="form__img"/>
-                    </div>
                     <form action="" class="form f-elements f-col gap-sm">
-                        <div class="form__legend">
-                            <legend class="form__legend-title">Contactános llenando todos los campos</legend>
-                        </div>
                         <div class="form__container f-elements f-col gap-sm">
                             <div class="form__request f-elements f-col gap-sm">
                                 <label for="name" class="form__label">Nombre</label>
@@ -467,11 +464,14 @@
                 </div>
             </div>
         </section>
-
-        -->
     </main>
     <footer class="footer">
-        <div class="container f-elements f-col md:f-row f-elements--between gap-md">
+        <div>
+            <section class="">
+                <div>Contactos</div>
+            </section>
+        </div>
+        <div class="container f-elements f-col md:f-row f-elements--between gap-md bg-green py-sm">
             <p class="footer__description">
                 ©2023 Emaús Manos Solidarias.
             </p>

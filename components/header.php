@@ -1,6 +1,6 @@
 <header class="header" id="header">
     <div class="container">
-        <section class="social">
+        <section class="social" id="social">
             <ul class="social__nav-list f-elements f-elements--center gap-md">
                 <li class="social__nav-item">
                     <a href="tel:923995006" class="social__nav-link">

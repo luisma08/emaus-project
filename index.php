@@ -35,7 +35,7 @@
     <meta name="twitter:image" content="https://emausmanossolidarias.org.pe/img/logo.png">
 
     <!-- Meta Tags Generated via https://www.opengraph.xyz -->
-    
+
 </head>
 <body class="body"><!--v1.0-->
     <!-- Agregando componente header -->
@@ -148,6 +148,183 @@
                 </div>
             </div>
         </section>
+
+        <!--  Actividades Sociales  -->
+
+        <section class="section" id="projects">
+            <div class="container f-elements f-col gap-md">
+              <p class="section__title">Tu donacion se convierte en</p>
+              <h3 class="section__title">Actividades Sociales</h3>
+              <div class="f-elements f-col f-elements--center">
+                    <div class="swiper mySwiper4"">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-1.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-2.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-3.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-4.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-5.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-6.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-7.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-8.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-9.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-10.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-11.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-12.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-13.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-14.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-15.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-16.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-17.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-18.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-19.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-20.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-21.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-22.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-23.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-24.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-25.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-26.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-27.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-28.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-29.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-30.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-31.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-32.webp" alt="" class="card__img">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="swiper-pagination mt-auto"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- SECCIONES PARA ACTUALIZAR
         <section class="section" id="services">
             <div class="container f-elements f-col gap-md">
@@ -223,117 +400,6 @@
                             
                             <div class="swiper-pagination"></div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <section class="section" id="projects">
-            <div class="container f-elements f-col gap-md">
-              <h2 class="section__title">💻 Proyectos 💻</h2>
-              <div class="f-elements f-col f-elements--center">
-                    <div class="swiper mySwiper4"">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/cbazan-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Ilustración de personajes, diseño y desarrollo de página web con formulario para obtención de leads.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/recomendacion-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Recomendaciones Banahosting</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de Landing pages
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/reservacanchita-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Reserva tu canchita</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de página web especializa en reserva de canchitas deportivas.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/cbazan-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Ilustración de personajes, diseño y desarrollo de página web con formulario para obtención de leads.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/recomendacion-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Recomendaciones Banahosting</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de Landing pages
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/reservacanchita-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Reserva tu canchita</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de página web especializa en reserva de canchitas deportivas.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/cbazan-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Ilustración de personajes, diseño y desarrollo de página web con formulario para obtención de leads.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/recomendacion-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Recomendaciones Banahosting</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de Landing pages
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/reservacanchita-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Reserva tu canchita</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de página web especializa en reserva de canchitas deportivas.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-pagination mt-auto"></div>
                     </div>
                 </div>
             </div>

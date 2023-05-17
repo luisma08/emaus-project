@@ -3,7 +3,7 @@
     border: 0.0625rem solid var(--primary-theme-color);
     border-radius: var(--primary-border-radius);
     color: var(--primary-text-color);
-    font-size: 1.325rem;
+    font-size: 1.125rem;
     text-decoration: none;
     font-weight: 600;
     font-family: var(--primary-font-family);
@@ -11,9 +11,10 @@
     cursor: pointer;
     transition: box-shadow 0.25s, filter 0.25s, color 0.25s;
     text-transform: uppercase;
+    text-align: center;
 
     @include desktop{
-        font-size: 1.625rem;
+        font-size: 1.2rem;
     }
 
     &:hover{

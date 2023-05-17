@@ -266,10 +266,15 @@
   --opacidad-negro: 0.5;
   background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.webp");
   background-repeat: no-repeat;
-  background-size: 100% 100vh;
+  background-size: 100% 100%;
   box-sizing: border-box;
   padding-top: 6.65rem;
-  height: 100vh;
+  height: 100%;
+}
+@media (min-width: 768px) {
+  .banner {
+    height: 100vh;
+  }
 }
 .banner__container {
   display: flex;
@@ -295,20 +300,21 @@
 .banner__title {
   font-size: 2.625rem;
   color: var(--third-text-color);
+  line-height: 3.125rem;
 }
 @media (min-width: 768px) {
   .banner__title {
-    font-size: 3.625rem;
+    font-size: 3rem;
   }
 }
 .banner__title-span {
   color: var(--span-text-color);
-  font-size: 2rem;
+  font-size: 1.625rem;
   font-weight: 800;
 }
 @media (min-width: 768px) {
   .banner__title-span {
-    font-size: 2.625rem;
+    font-size: 2.125rem;
   }
 }
 .banner__subtitle {
@@ -317,7 +323,8 @@
 }
 @media (min-width: 768px) {
   .banner__subtitle {
-    font-size: 2.625rem;
+    font-size: 1.825rem;
+    line-height: 2.125rem;
   }
 }
 .banner__description {
@@ -326,7 +333,7 @@
 }
 @media (min-width: 768px) {
   .banner__description {
-    font-size: 2rem;
+    font-size: 1.225rem;
   }
 }
 .banner__img {
@@ -348,7 +355,7 @@
   border: 0.0625rem solid var(--primary-theme-color);
   border-radius: var(--primary-border-radius);
   color: var(--primary-text-color);
-  font-size: 1.325rem;
+  font-size: 1.125rem;
   text-decoration: none;
   font-weight: 600;
   font-family: var(--primary-font-family);
@@ -356,10 +363,11 @@
   cursor: pointer;
   transition: box-shadow 0.25s, filter 0.25s, color 0.25s;
   text-transform: uppercase;
+  text-align: center;
 }
 @media (min-width: 768px) {
   .button {
-    font-size: 1.625rem;
+    font-size: 1.2rem;
   }
 }
 .button:hover {
@@ -460,14 +468,15 @@
   color: var(--primary-text-color);
 }
 .card__title {
-  font-size: 1.5rem;
+  font-size: 1.325rem;
   text-align: center;
   margin: 0;
   font-weight: 700;
   text-transform: uppercase;
+  padding: 0 1rem;
 }
 .card__subtitle {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
   text-align: center;
   margin: 0;
 }

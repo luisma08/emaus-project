@@ -2,14 +2,18 @@
     --opacidad-negro: 0.5;
     background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.webp");
     background-repeat: no-repeat;
-    background-size: 100% 100vh;
+    background-size: 100% 100%;
     //object-fit: cover;
     //background: rgb(220,0,88);
     //background: linear-gradient(90deg, rgba(220,0,88,0.8463760504201681) 0%, rgba(220,0,88,1) 10%, rgba(220,0,88,0.835171568627451) 100%);
     box-sizing: border-box;
     //margin-top: 2rem;
     padding-top: 6.65rem;
-    height: 100vh;
+    height: 100%;
+
+    @include desktop{
+        height: 100vh;
+    }
 
     &__container{
         display: flex;
@@ -36,17 +40,18 @@
     &__title{
         font-size: 2.625rem;
         color: var(--third-text-color);
+        line-height: 3.125rem;
 
         @include desktop{
-            font-size: 3.625rem;
+            font-size: 3rem;
         }
         &-span{
             color: var(--span-text-color);
-            font-size: 2rem;
+            font-size: 1.625rem;
             font-weight: 800;
 
             @include desktop{
-                font-size: 2.625rem;
+                font-size: 2.125rem;
             }
         }
     }
@@ -55,7 +60,8 @@
         font-size: 1.625rem;
         color: var(--third-text-color);
         @include desktop{
-            font-size: 2.625rem;
+            font-size: 1.825rem;
+            line-height: 2.125rem;
         }
     }
     
@@ -63,7 +69,7 @@
         font-size: 1.325rem;
         color: var(--third-text-color);
         @include desktop{
-            font-size: 2rem;
+            font-size: 1.225rem;
         }
     }
 

@@ -157,7 +157,7 @@
         <!-- Seccion CTA -->
 
         <section class="section bg-green">
-            <div class="container f-elements f-col gap-md md:row">
+            <div class="container f-elements f-col f-elements--center gap-md md:f-row ">
                 <p class="section__description">
                     Dona desde tu hogar o trabajo
                 </p>

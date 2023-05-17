@@ -155,7 +155,7 @@
   position: relative;
 }
 .header__container-logo {
-  margin: auto;
+  margin: 0;
 }
 .header__container-nav {
   position: relative;
@@ -194,6 +194,8 @@
   border: 0.5rem;
   padding-top: 0.125rem;
   padding-bottom: 0.125rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 .nav:target {
   --translate-list-header: 0; /* --test valor de la variable */
@@ -207,8 +209,8 @@
 }
 .nav__logo {
   display: flex;
-  width: 80px;
-  height: 80px;
+  width: 60px;
+  height: 60px;
   padding-top: 0.625rem;
   padding-bottom: 0.625rem;
 }

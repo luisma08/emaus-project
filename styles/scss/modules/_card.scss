@@ -35,15 +35,12 @@
       &-icon{
           width: 80px;
           height: 80px;
-          margin: 0.5rem 2rem;
+          margin: 1rem 2rem;
           padding: 2rem 2rem;
           background-color: var(--primary-bg-color);
           color: var(--reverse-primary-text-color);
           border-radius: 50%;
 
-          @include desktop{
-            margin: 2rem;
-          }
         }
 
     }
@@ -67,7 +64,7 @@
       margin: 0;
       font-weight: 700;
       text-transform: uppercase;
-      padding: 0 1rem;
+      padding: 1rem 1rem;
     }
     
     &__subtitle {

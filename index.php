@@ -428,7 +428,7 @@
         -->
         
         <section class="contact py-sm" id="contact">
-            <div class="container f-elements f-elements--center f-col gap-sm">
+            <div class="container f-elements f-elements--center f-col md:f-row gap-lg">
                 <div class="f-elements f-elements--center f-col border__dotted">
                     <div class="contact__header">
                         <div class="f-elements f-elements--center">
@@ -437,7 +437,7 @@
                         <p class="contact__title">Ayudanos con tu donacion</p>
                         <p class="contact__description">¡ Recogemos a domicilio !</p>
                     </div>
-                    <div class="f-elements f-elements--center f-col md:f-row gap-sm w-100">
+                    <div class="f-elements f-elements--center f-col gap-sm w-100">
                         <form action="" class="form f-elements f-col gap-sm">
                             <div class="f-elements f-col gap-sm">
                                 <div class="f-elements f-col gap-sm">
@@ -461,7 +461,20 @@
                         <script src="js/form.js"></script>
                     </div>
                 </div>
+                <div class="f-elements f-elements--center f-col">
+                    <div class="contact__cta border">
+                        <p class="contact__cta--description">
+                            Extiende tu mano a los más necesitados y forma parte de cada uno de los proyectos de Traperos de Emaús Manos Solidarias.
+                        </p>
+                        <div class="f-elements f-elements--center">
+                            <a class="button button--primary" href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación"><i class="bi bi-whatsapp"></i>¡ Quiero donar !</a>
+                        </div>
+                    </div>
+                </div>
             </div>
+        </section>
+
+        <section class="section">
         </section>
     </main>
     <footer class="footer">

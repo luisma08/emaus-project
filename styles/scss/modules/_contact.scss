@@ -24,4 +24,23 @@
         margin: 0;
         color: var(--primary-theme-color);
     }
+
+    &__cta{
+        --opacidad-negro: 0.5;
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url(../../assets/img/actividades-sociales/actividades-sociales-31.webp);
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        box-sizing: border-box;
+        padding: 2rem;
+        max-width: 550px;
+
+        &--description{
+            font-size: 1.5rem;
+            text-align: center;
+            margin:0;
+            padding-top: 2rem;
+            padding-bottom: 2rem;
+            color: var(--primary-text-color);
+        }
+    }
 }

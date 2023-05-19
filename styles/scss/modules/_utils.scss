@@ -10,6 +10,11 @@
     margin-top: 1rem;
 }
 
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .scroll{
     background-color: var(--primary-theme-color);
 }
@@ -63,9 +68,19 @@
     padding-bottom: 1rem;
 }
 
+.px-sm{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
 .w-100{
     width: 100%;
 }
+
+.w-auto{
+    width: auto;
+}
+
 
 .border {
     box-shadow: 0 0 0.125rem var(--primary-shadow-color),

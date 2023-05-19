@@ -105,6 +105,7 @@
 }
 .section__title {
   font-size: 2rem;
+  line-height: 2.5rem;
 }
 @media (min-width: 768px) {
   .section__title {
@@ -144,6 +145,7 @@
 }
 .section__donaciones--title {
   font-size: 2rem;
+  font-weight: 600;
 }
 @media (min-width: 768px) {
   .section__donaciones--title {
@@ -152,6 +154,8 @@
 }
 .section__donaciones--description {
   font-size: 1.25rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 @media (min-width: 768px) {
   .section__donaciones--description {

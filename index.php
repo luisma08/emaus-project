@@ -176,6 +176,17 @@
             </div>
         </section>
 
+        <section class="section bg-green">
+            <div class="container f-elements f-col f-elements--center gap-md md:f-row ">
+                <p class="section__description">
+                    Tu ayuda es fundamental para ellos.
+                </p>
+                <div class="f-elements f-elements--center">
+                    <a class="button button--primary" href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación"><i class="bi bi-whatsapp"></i> ¡Dona hoy!</a>
+                </div>
+            </div>
+        </section>
+
         <!--  Actividades Sociales  -->
 
         <section class="section" id="projects">

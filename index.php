@@ -79,7 +79,7 @@
                 <div class="f-elements f-col f-elements--center md:f-row--reverse px-sm py-sm">
                     <div class="section__donaciones">
                         <p class="section__donaciones--title">¿Qué puedes Donar?</p>
-                        <p class="section__donaciones--description">Puedes donar cualquier objeto, cosa o lo que desees. A continuación podrás visualizar una lista de tarjetas donde al dar click te pondrás en contacto automáticamente con nosotros para realizar una donación</p>
+                        <p class="section__donaciones--description">Aprovecha la oportunidad de marcar la diferencia donando diversos objetos o artículos. Tu generosidad puede traer alegría y satisfacer las necesidades de quienes más lo necesitan, independientemente de si son cosas que ya no utilizas o consideras valiosas.</p>
                     </div>
                     <div class="slider f-elements f-col">
                         <div class="swiper mySwiper1">

@@ -3,11 +3,49 @@
     box-sizing: border-box;
     padding: 0;
 
-    &__description{
-        color: var(--primary-text-color);
+    &__title{
+      font-size: 1.225rem;
+      font-weight: 600;
+      color: var(--primary-theme-color);
+
+      @include desktop{
         font-size: var(--primary-text-font-size);
+      }
+
+      &--primary{
+        text-align: left;
+      }
+
+      &--secondary{
+        text-align: center;
+        @include desktop{
+          text-align: left;
+        }
+      }
+    }
+
+    &__description{
+        
         text-align: center;
         margin: 0;
+
+        @include desktop{
+          text-align: left;
+        }
+
+        &--primary{
+          font-size: var(--primary-text-font-size);
+          color: var(--primary-text-color);
+        }
+
+        &--secondary{
+          font-size: 1rem;
+          color: var(--secondary-text-color);
+
+          @include desktop{
+            font-size: 1.225rem;
+          }
+        }
     }
 
     &__nav-list{

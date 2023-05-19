@@ -29,6 +29,11 @@
         transition: color 0.25s;
         font-size: var(--primary-text-font-size);
 
+        &--contact{
+            color: var(--secondary-text-color);
+            font-weight: 500;
+        }
+
         &:hover {
             color: var(--secondary-highlight-color);
         }

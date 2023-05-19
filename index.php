@@ -498,13 +498,58 @@
         </section>
     </main>
     <footer class="footer">
-        <div>
-            <section class="">
-                <div>Contactos</div>
-            </section>
+        <div class="container">
+            <div class="f-elements f-col md:f-row gap-md py-md">
+                <div class="f-elements f-col w-100">
+                    <div class="f-elements gap-sm mx-responsive">
+                        <a href="index.html" class="f-elements f-elements--center">
+                            <img src="./assets/img/logo/logo-emaus.webp" alt="logo" class="nav__logo">
+                        </a>
+                        <p class="footer__title footer__title--primary">Traperos de Emaús<br/> Manos Solidarias</p>
+                    </div>
+                    <div>
+                        <p class="footer__description footer__description--secondary">Somos un grupo de personas con gran vocación social que trabaja día a día con mucho amor para los que menos tienen.</p>
+                    </div>
+                </div>
+                <div class="f-elements f-col w-100">
+                    <div class="">
+                        <p class="footer__title footer__title--secondary">Contáctanos</p>
+                    </div>
+                    <div class="f-elements f-col gap-sm">
+                        <div class="mx-responsive">
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-telephone"></i> (+51) 923 995 006</a>
+                        </div>
+                        <div class="mx-responsive">
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-whatsapp"></i> (01) 757 4747</a>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="footer__title footer__title--secondary">Ubicanos en</p>
+                    </div>
+                    <div>
+                        <p class="footer__description footer__description--secondary">Asociación de Vivienda Ríos y Jardínes del Valle. Ubicado en el Sector José Carlos Mariátegui, Vallecito Alto colindante con Asociación Mariátegui Villa María del Triunfo.</p>
+                    </div>
+                </div>
+                <div class="f-elements f-col w-100">
+                    <div>
+                        <p class="footer__title footer__title--secondary">Conoce mas</p>
+                    </div>
+                    <div class="mx-responsive">
+                        <div class="">
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Nosotros</a>
+                        </div>
+                        <div class="">
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Donaciones</a>
+                        </div>
+                        <div class="">
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contacto</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
         <div class="container f-elements f-col md:f-row f-elements--between gap-md bg-green py-sm">
-            <p class="footer__description">
+            <p class="footer__description footer__description--primary">
                 ©2023 Emaús Manos Solidarias.
             </p>
             <nav class="">

@@ -474,7 +474,7 @@
                                 </div>
                                 <div id="response"></div>
                                 <div class="form__button">
-                                    <button class="button button--primary" id="submit">Deseo donar</button>
+                                    <button class="button button--primary" id="submit"><i class="bi bi-whatsapp"></i> Deseo donar</button>
                                 </div>
                             </div>
                         </form>

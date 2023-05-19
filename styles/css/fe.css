@@ -393,6 +393,7 @@
 .list__link--contact {
   color: var(--secondary-text-color);
   font-weight: 500;
+  font-size: 1.125rem;
 }
 .list__link:hover {
   color: var(--secondary-highlight-color);

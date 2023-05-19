@@ -487,7 +487,7 @@
                             Extiende tu mano a los más necesitados y forma parte de cada uno de los proyectos de Traperos de Emaús Manos Solidarias.
                         </p>
                         <div class="f-elements f-elements--center">
-                            <a class="button button--primary" href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación"><i class="bi bi-whatsapp"></i>¡ Quiero donar !</a>
+                            <a class="button button--primary" href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación"><i class="bi bi-whatsapp"></i> ¡Quiero donar!</a>
                         </div>
                     </div>
                 </div>

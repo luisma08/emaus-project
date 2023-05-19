@@ -193,7 +193,7 @@
             <div class="container f-elements f-col">
               <p class="section__description">Tu donacion se convierte en</p>
               <h3 class="section__title">Actividades Sociales</h3>
-              <div class="f-elements f-col f-elements--center gap-md py-sm">
+              <div class="f-elements f-col f-elements--center gap-md py-md">
                     <div class="swiper mySwiper4"">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">

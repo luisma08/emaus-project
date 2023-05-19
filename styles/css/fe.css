@@ -154,6 +154,7 @@
 @media (min-width: 768px) {
   .section__title {
     font-size: 3.125rem;
+    line-height: 3.625rem;
   }
 }
 .section__description {

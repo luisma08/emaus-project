@@ -58,7 +58,29 @@
                     </p>
                     <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Ayudanos a Donar</a>
                 </div>
-                <div class="banner__img f-elements f-col f-elements--center">
+            </div>
+        </section>
+
+        <!-- Seccion CTA -->
+
+        <section class="section bg-green">
+            <div class="container f-elements f-col f-elements--center gap-md md:f-row ">
+                <p class="section__description">
+                    Dona desde tu hogar o trabajo
+                </p>
+                <div class="f-elements f-elements--center">
+                    <a class="button button--primary" href="tel:923995006"><i class="bi bi-telephone"></i> Llamanos</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container">
+                <div class="f-elements f-col f-elements--center md:f-row--reverse px-sm py-sm">
+                    <div class="section__donaciones">
+                        <p class="section__donaciones--title">¿Qué puedes Donar?</p>
+                        <p class="section__donaciones--description">Puedes donar cualquier objeto, cosa o lo que desees. A continuación podrás visualizar una lista de tarjetas donde al dar click te pondrás en contacto automáticamente con nosotros para realizar una donación</p>
+                    </div>
                     <div class="slider f-elements f-col">
                         <div class="swiper mySwiper1">
                             <div class="swiper-wrapper">
@@ -150,19 +172,6 @@
                             -->
                         </div>
                     </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Seccion CTA -->
-
-        <section class="section bg-green">
-            <div class="container f-elements f-col f-elements--center gap-md md:f-row ">
-                <p class="section__description">
-                    Dona desde tu hogar o trabajo
-                </p>
-                <div class="f-elements f-elements--center">
-                    <a class="button button--primary" href="tel:923995006"><i class="bi bi-telephone"></i> Llamanos</a>
                 </div>
             </div>
         </section>
@@ -429,7 +438,7 @@
         
         <section class="contact py-sm" id="contact">
             <div class="container f-elements f-elements--center f-col md:f-row gap-lg">
-                <div class="f-elements f-elements--center f-col border__dotted">
+                <div class="f-elements f-elements--center f-col border border__dotted">
                     <div class="contact__header">
                         <div class="f-elements f-elements--center">
                             <img src="./assets/img/logo/logo-emaus.webp" alt="logo" class="contact__logo" />

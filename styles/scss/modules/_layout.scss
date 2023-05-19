@@ -22,6 +22,38 @@
       margin: 0;
     }
 
+    &__donaciones{
+
+      width: 100%;
+      @include desktop{
+        width: 50%;
+      }
+
+      &--title, &--description{
+        color:var(--primary-p-color);
+        text-align: center;
+        margin: 0;
+
+        @include desktop{
+          text-align: left;
+        }
+      }
+
+      &--title{
+        font-size: 2rem;
+        @include desktop{
+          font-size: 3.125rem;
+        }
+      }
+
+      &--description{
+          font-size: 1.25rem;
+          @include desktop{
+            font-size: 2rem;
+          }
+      }
+    }
+
   }
    
   .container {

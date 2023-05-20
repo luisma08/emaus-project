@@ -366,86 +366,71 @@
             </div>
         </section>
 
-        <!-- SECCIONES PARA ACTUALIZAR
+        <!-- SECCIONES CONSULTAS -->
         <section class="section" id="services">
             <div class="container f-elements f-col gap-md">
-              <h2 class="section__title">¿Qué hacemos?</h2>
-              <p class="section__description">Contamos con las mejores soluciones en:</p>
+              <h3 class="section__title">¿Cómo donar?</h3>
+              <P class="section__description">Sigue los siguientes pasos para poder realizar tu donación</P>
               <div class="g-elements g-elements--center gap-md g-template-columns">
-                    <div class="slider">
-                        <div class="swiper mySwiper2">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="card card__services f-elements f-col f-elements--center">
-                                        <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/icon-tienda-online-2.svg" alt="" class="icon" width="143" height="126">
-                                        </div>
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <h3 class="card__title">Tiendas Digitales</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card card__services f-elements f-col f-elements--center">
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <p class="card__text">
-                                                Alcanza tus objetivos de ventas con tu tienda virtual. Un Ecommerce a tu medida.
-                                            </p>
-                                        </div>
-                                        <div class="card__footer">
-                                            <div class="f-elements f-elements--center gap-md">
-                                                <a href="#contact" rel="noopener noreferrer" class="button button--primary">Solicitar</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                            
-                            <div class="swiper-pagination"></div>
-                        </div>
+                <div class="card card__services f-elements f-col f-elements--center">
+                    <div class="card__img-icon f-elements f-elements--center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="currentColor" class="bi bi-1-circle icon" viewBox="0 0 16 16">
+                            <path d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM9.283 4.002V12H7.971V5.338h-.065L6.072 6.656V5.385l1.899-1.383h1.312Z"/>
+                        </svg>
                     </div>
-                    <div class="slider">
-                        <div class="swiper mySwiper3">
-                            <div class="swiper-wrapper">
-                                <div class="swiper-slide">
-                                    <div class="card card__services f-elements f-col f-elements--center">
-                                        <div class="card__img-icon f-elements f-elements--center">
-                                            <img src="./assets/icon/icon-landing-page-2.svg" alt="" class="icon" width="143" height="126">
-                                        </div>
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <h3 class="card__title">Landing Page</h3>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="swiper-slide">
-                                    <div class="card card__services f-elements f-col f-elements--center">
-                                        <div class="card__body-services f-elements f-col f-elements--center gap-sm">
-                                            <p class="card__text">
-                                                Promociona tu producto o servicio de la mejor manera con un diseño especializado para captar clientes
-                                            </p>
-                                        </div>
-                                        <div class="card__footer">
-                                            <div class="f-elements f-elements--center gap-md">
-                                                <a href="#contact" rel="noopener noreferrer" class="button button--primary">Solicitar</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <div class="swiper-button-next"></div>
-                            <div class="swiper-button-prev"></div>
-                            
-                            <div class="swiper-pagination"></div>
+                    <div class="card__body-services f-elements f-col f-elements--center gap-sm">
+                        <h3 class="card__title">Contactanos</h3>
+                        <p class="card__text">
+                            Ponte en contacto con nosotros a través de nuestros números telefónicos. Llámanos al: +51 923 995 006
+                        </p>
+                    </div>
+                    <div class="card__footer">
+                        <div class="f-elements f-elements--center gap-md">
+                            <a href="tel:+51923995006" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-telephone"></i> Llamar</a>
                         </div>
                     </div>
                 </div>
+                <div class="card card__services f-elements f-col f-elements--center">
+                    <div class="card__img-icon f-elements f-elements--center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="currentColor" class="bi bi-2-circle icon" viewBox="0 0 16 16">
+                            <path d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM6.646 6.24v.07H5.375v-.064c0-1.213.879-2.402 2.637-2.402 1.582 0 2.613.949 2.613 2.215 0 1.002-.6 1.667-1.287 2.43l-.096.107-1.974 2.22v.077h3.498V12H5.422v-.832l2.97-3.293c.434-.475.903-1.008.903-1.705 0-.744-.557-1.236-1.313-1.236-.843 0-1.336.615-1.336 1.306Z"/>
+                        </svg>
+                    </div>
+                    <div class="card__body-services f-elements f-col f-elements--center gap-sm">
+                        <h3 class="card__title">Te asesoramos</h3>
+                        <p class="card__text">
+                            Te atenderemos, brindaremos toda la información que necesites y programaremos el recojo hasta tu domicilio.
+                        </p>
+                    </div>
+                    <div class="card__footer">
+                        <div class="f-elements f-elements--center gap-md">
+                            <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, necesito más información sobre las donaciones" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-whatsapp"></i> Consultar</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="card card__services f-elements f-col f-elements--center">
+                    <div class="card__img-icon f-elements f-elements--center">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="currentColor" class="bi bi-3-circle icon" viewBox="0 0 16 16">
+                            <path d="M7.918 8.414h-.879V7.342h.838c.78 0 1.348-.522 1.342-1.237 0-.709-.563-1.195-1.348-1.195-.79 0-1.312.498-1.348 1.055H5.275c.036-1.137.95-2.115 2.625-2.121 1.594-.012 2.608.885 2.637 2.062.023 1.137-.885 1.776-1.482 1.875v.07c.703.07 1.71.64 1.734 1.917.024 1.459-1.277 2.396-2.93 2.396-1.705 0-2.707-.967-2.754-2.144H6.33c.059.597.68 1.06 1.541 1.066.973.006 1.6-.563 1.588-1.354-.006-.779-.621-1.318-1.541-1.318Z"/>
+                            <path d="M16 8A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8Z"/>
+                        </svg>
+                    </div>
+                    <div class="card__body-services f-elements f-col f-elements--center gap-sm">
+                        <h3 class="card__title">Recojo gratuito</h3>
+                        <p class="card__text">
+                            Realizamos el recojo cumpliendo con todos los protocolos de bioseguridad sin costo en Lima y Callao.
+                        </p>
+                    </div>
+                    <div class="card__footer">
+                        <div class="f-elements f-elements--center gap-md">
+                            <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                        </div>
+                    </div>
+                </div>
+              </div>
             </div>
         </section>
-        -->
+        
         
         <section class="contact py-sm" id="contact">
             <div class="container f-elements f-elements--center f-col md:f-row gap-lg">
@@ -544,6 +529,12 @@
                         <div class="">
                             <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contacto</a>
                         </div>
+                    </div>
+                    <div class="">
+                        <p class="footer__title footer__title--secondary">Visitanos en</p>
+                    </div>
+                    <div>
+                        <div style="width: 100%"><iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=250&amp;hl=es&amp;q=-12.225891,%20-76.960594+(Emaus%20Manos%20Solidarias)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/car-satnav-gps/">Sat Navs</a></iframe></div>
                     </div>
                 </div>
             </div>

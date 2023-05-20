@@ -610,7 +610,7 @@
   margin: 1rem 2rem;
   padding: 2rem 2rem;
   background-color: var(--primary-bg-color);
-  color: var(--reverse-primary-text-color);
+  color: var(--primary-text-color);
   border-radius: 50%;
 }
 .card__body {
@@ -639,6 +639,9 @@
   text-align: center;
   margin: 0;
 }
+.card__text::before, .card__text::after {
+  color: var(--primary-theme-color);
+}
 .card__text::before {
   content: "❤";
 }
@@ -646,11 +649,10 @@
   content: "❤";
 }
 
-/*
-  .icon{
-    animation: t-rotate 2.5s linear infinite;
-  }
-*/
+.icon {
+  animation: t-rotate 2.5s linear infinite;
+}
+
 .contact__header {
   text-align: center;
   padding: 1rem;

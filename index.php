@@ -540,9 +540,14 @@
             </div>
         </div>
         <div class="container f-elements f-col md:f-row f-elements--between gap-md bg-green py-sm">
-            <p class="footer__description footer__description--primary">
-                ©2023 Emaús Manos Solidarias.
-            </p>
+            <div class="f-elements f-col gap-sm">
+                <p class="footer__description footer__description--primary">
+                    ©2023 Traperos de Emaús Manos Solidarias.
+                </p>
+                <p class="footer__description footer__description--primary">
+                    Desarrollado por <a href="https://www.mavoagenciadigital.com/" target="_blank" class="list list__link list__link--contact">Mavo Agencia Digital</a> - Todos los derechos Reservados.
+                </p>
+            </div>
             <nav class="">
                 <ul class="footer__nav-list f-elements gap-sm">
                     <li class="footer__nav-item">

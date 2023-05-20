@@ -136,6 +136,7 @@
   border-radius: var(--primary-border-radius);
   border: 0.125rem solid var(--reverse-primary-border-color);
   overflow: hidden;
+  box-sizing: border-box;
 }
 .border__dotted {
   border-style: dotted;

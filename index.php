@@ -534,7 +534,11 @@
                         <p class="footer__title footer__title--secondary">Visitanos en</p>
                     </div>
                     <div>
-                        <div style="width: 100%"><iframe width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=250&amp;hl=es&amp;q=-12.225891,%20-76.960594+(Emaus%20Manos%20Solidarias)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/car-satnav-gps/">Sat Navs</a></iframe></div>
+                        <div style="width: 100%">
+                            <iframe class="border" width="100%" height="250" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=250&amp;hl=es&amp;q=-12.225891,%20-76.960594+(Emaus%20Manos%20Solidarias)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed">
+                                <a href="https://www.gps.ie/car-satnav-gps/">Sat Navs</a>
+                            </iframe>
+                        </div>
                     </div>
                 </div>
             </div>

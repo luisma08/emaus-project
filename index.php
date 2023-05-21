@@ -73,7 +73,8 @@
                 </div>
             </div>
         </section>
-
+        
+        <!-- DONACIONES -->
         <section class="section">
             <div class="container">
                 <div class="f-elements f-col f-elements--center md:f-row--reverse px-sm py-sm">
@@ -92,6 +93,11 @@
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de juguetes para niños</h3>
                                         </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de juguetes para niños" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -101,6 +107,11 @@
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de ropas en desuso</h3>
+                                        </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de ropas en desuso" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -112,6 +123,11 @@
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de calzados en desuso</h3>
                                         </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de calzados en desuso" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -121,6 +137,11 @@
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de aparatos tecnológicos</h3>
+                                        </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de aparatos tecnológicos" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -132,6 +153,11 @@
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de víveres no perecibles</h3>
                                         </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de víveres no perecibles" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -141,6 +167,11 @@
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de electrodomésticos</h3>
+                                        </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de electrodomésticos" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -152,6 +183,11 @@
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de aparatos ortopédicos</h3>
                                         </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de aparatos ortopédicos" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
@@ -161,6 +197,11 @@
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
                                             <h3 class="card__title">Donación de muebles en desuso</h3>
+                                        </div>
+                                        <div class="card__footer">
+                                            <div class="f-elements f-elements--center gap-md">
+                                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación de muebles en desuso" rel="noopener noreferrer" class="button button--primary"><i class="bi bi-balloon-heart"></i> Donar</a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>

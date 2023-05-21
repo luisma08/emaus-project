@@ -562,13 +562,13 @@
                     </div>
                     <div class="mx-responsive">
                         <div class="">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Nosotros</a>
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> ¿Quiénes somos?</a>
                         </div>
                         <div class="">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Donaciones</a>
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Actividades sociales</a>
                         </div>
                         <div class="">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contacto</a>
+                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contáctanos</a>
                         </div>
                     </div>
                     <div class="">

@@ -54,13 +54,16 @@
                     </a>
                 <ul class="list list--header f-elements f-col gap-md f-elements--center md:f-row">
                     <li>
-                        <a href="#services" class="list__link">Nosotros</a>
+                        <a href="#services" class="list__link">¿Quiénes somos?</a>
                     </li>
                     <li>
-                        <a href="#projects" class="list__link">Donaciones</a>
+                        <a href="#projects" class="list__link">Actividades sociales</a>
                     </li>
                     <li>
-                        <a href="#contact" class="list__link">Contacto</a>
+                        <a href="#contact" class="list__link">Contáctanos</a>
+                    </li>
+                    <li>
+                        <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Donar</a>
                     </li>
                 </ul>
             </div>

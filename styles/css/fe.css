@@ -144,6 +144,16 @@
   border-color: var(--primary-theme-color);
 }
 
+.h-0 {
+  top: 8.9rem;
+  height: calc(100% - 8.9rem);
+}
+
+.h-1 {
+  height: calc(100% - 5rem);
+  top: 5rem;
+}
+
 .section {
   padding-top: var(--padding-section);
   padding-bottom: var(--padding-section);
@@ -378,10 +388,8 @@
 }
 .list--header {
   position: fixed;
-  top: 8.9rem;
   left: 0;
   width: 100%;
-  height: calc(100% - 8.9rem);
   background-color: var(--secondary-theme-color);
   transform: translateX(var(--translate-list-header));
   transition: transform 0.25s;

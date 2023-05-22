@@ -54,7 +54,7 @@
                     <a href="#header-close" class="nav__icon nav__icon--close">
                     <i class="bi bi-x-circle"></i>
                     </a>
-                <ul class="list list--header f-elements f-col gap-md f-elements--center md:f-row">
+                <ul class="list list--header f-elements f-col gap-md f-elements--center md:f-row" id="list-content">
                     <li>
                         <a href="#services" class="list__link">¿Quiénes somos?</a>
                     </li>

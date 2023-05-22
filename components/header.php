@@ -59,7 +59,7 @@
                         <a href="#services" class="list__link">¿Quiénes somos?</a>
                     </li>
                     <li>
-                        <a href="#projects" class="list__link">Actividades sociales</a>
+                        <a href="../actividades-sociales.php" class="list__link">Actividades sociales</a>
                     </li>
                     <li>
                         <a href="#contact" class="list__link">Contáctanos</a>

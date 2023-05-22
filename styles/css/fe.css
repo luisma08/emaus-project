@@ -289,18 +289,29 @@
 .social {
   background-color: var(--primary-theme-color);
   box-sizing: border-box;
-  padding: 0.5rem;
+  padding: 1rem;
 }
 .social__description {
   color: var(--primary-text-color);
-  font-size: var(--primary-text-font-size);
+  font-size: 1rem;
   text-align: center;
   margin: 0;
+}
+@media (min-width: 768px) {
+  .social__description {
+    font-size: var(--primary-text-font-size);
+  }
 }
 .social__nav-list {
   margin: 0;
   padding: 0;
   list-style: none;
+}
+.social__nav-link {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .social__nav-img {
   width: 1.5rem;

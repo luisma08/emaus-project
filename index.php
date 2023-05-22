@@ -524,7 +524,7 @@
         </section>
     </main>
     <footer class="footer">
-        <section class="social py-sm" id="social">
+        <section class="social" id="social">
             <div class="container">
                 <div class="f-elements f-elements--center f-col md:f-row gap-md">
                     <div class="f-elements f-elements--center gap-md">

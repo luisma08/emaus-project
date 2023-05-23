@@ -21,8 +21,8 @@
 
     <!-- HTML Meta Tags -->
     <title>Nosotros | Traperos de Emaús - Manos Solidarias</title>
-    <meta name="description" content="Traperos de Emaús - Manos Solidarias">
-    <meta name="keywords" content="">
+    <meta name="description" content="Traperos de Emaús - Manos Solidarias | Somos un grupo de personas con vocación solidaria que trabajamos día a día para mejorar la calidad de vida de muchas personas que nos necesitan y con tu ayuda contribuir a un futuro mejor para todos">
+    <meta name="keywords" content="traperos, traperos de emaus, donaciones en lima, donar, donde donar, donar ropa, donacion de ropa, donacion de ropa en deuso, donar muebles, donacion de muebles, donar muebles usados, donacion de juguetes, donar articulos usados, donde donar cosas usada, donacion de ropa usada, donar artefactos, donacion de artefactos, donar electrodomesticos, donacion de electrodomesticos, donar aparatos ortopedicos, donacion de aparatos ortopedicos, donacion de aparatos tecnologicos, donacion de secadoras, donaciones en lima, reciclaje en lima, reciclar artefactos malogrados lima, reciclaje de artefactos, donar a la caridad, donaciones en lima peru, lima peru, los traperos en lima, donacion de zapatos usados en lima, donacion de calzado, donde donar zapatos, donde donar ropa, donar sillas, donacion de vienes, donar mobiliario, donaciones en lima, donacion de camas, donar colchones, donacion de colchones, donar a emaus, donaciones emaus">
 </head>
 <body class="body">
 

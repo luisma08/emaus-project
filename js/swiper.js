@@ -75,13 +75,18 @@ var swiper4 = new Swiper(slideContainer4, {
         },
 
         768: {
-            slidesPerView: 3,
+            slidesPerView: 2,
             spaceBetween: 30,
         },
 
         1024: {
-            slidesPerView: 4,
+            slidesPerView: 3,
             spaceBetween: 40,
+        },
+
+        1450: {
+          slidesPerView: 4,
+          spaceBetween: 40,
         }
       }
   });

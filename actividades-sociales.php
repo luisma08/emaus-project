@@ -164,7 +164,7 @@
 
         <section class="section" id="projects">
             <div class="container f-elements f-col">
-              <p class="section__description">Tu donacion se convierte en</p>
+              <p class="section__description">Conoce nuestras</p>
               <h3 class="section__title">Actividades Sociales</h3>
               <div class="f-elements f-col f-elements--center gap-md py-md">
                     <div class="swiper mySwiper4">
@@ -173,10 +173,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-1.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Olla común em el distrito de Villa María del Triunfo, en el AA.HH Divino Niño Jesus
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Olla común em el distrito de Villa María del Triunfo, en el AA.HH Divino Niño Jesus</h3>
                                     </div>
                                 </div>
                             </div>
@@ -184,10 +181,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-2.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación en el asentamiento Humano asociación de viviendas y jardines del valle - Villa María del Triunfo
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación en el asentamiento Humano asociación de viviendas y jardines del valle - Villa María del Triunfo</h3>
                                     </div>
                                 </div>
                             </div>
@@ -195,10 +189,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-3.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Olla común em el distrito de Villa María del Triunfo, en el AA.HH Divino Niño Jesus
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Olla común em el distrito de Villa María del Triunfo, en el AA.HH Divino Niño Jesus</h3>
                                     </div>
                                 </div>
                             </div>
@@ -206,10 +197,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-4.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Asentamiento Humano 12 de Abril Olla Común José Gálvez - Villa María del Triunfo
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Asentamiento Humano 12 de Abril Olla Común José Gálvez - Villa María del Triunfo</h3>
                                     </div>
                                 </div>
                             </div>
@@ -217,10 +205,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-5.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Asentamiento Humano 10 de Octubre San Gabriel Alto - Villa María del Triunfo
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Asentamiento Humano 10 de Octubre San Gabriel Alto - Villa María del Triunfo</h3>
                                     </div>
                                 </div>
                             </div>
@@ -228,10 +213,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-6.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donaciones de canastas familiares (viveres) en el AA. HH. Circunvalación
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donaciones de canastas familiares (viveres) en el AA. HH. Circunvalación</h3>
                                     </div>
                                 </div>
                             </div>
@@ -239,10 +221,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-7.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Programa Virgen del Chapi de Villa Ciclo I. Loma de corvina Villa el Salvador
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Programa Virgen del Chapi de Villa Ciclo I. Loma de corvina Villa el Salvador</h3>
                                     </div>
                                 </div>
                             </div>
@@ -250,10 +229,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-8.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Olla común en el distrito de Villa Maria del Triunfo, en el AA. HH. Cristo Salvador
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Olla común en el distrito de Villa Maria del Triunfo, en el AA. HH. Cristo Salvador</h3>
                                     </div>
                                 </div>
                             </div>
@@ -261,10 +237,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-9.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donaciones de Víveres - A.A.H.H. 10 de Octubre San Gabriel Alto VMT
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donaciones de Víveres - A.A.H.H. 10 de Octubre San Gabriel Alto VMT</h3>
                                     </div>
                                 </div>
                             </div>
@@ -272,10 +245,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-10.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación de Víveres - Olla Común Los resilentes S.J.L.
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación de Víveres - Olla Común Los resilentes S.J.L.</h3>
                                     </div>
                                 </div>
                             </div>
@@ -283,10 +253,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-11.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación de Víveres - Olla Común Villa María
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación de Víveres - Olla Común Villa María</h3>
                                     </div>
                                 </div>
                             </div>
@@ -294,10 +261,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-12.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación Navideña - Ayacucho Veracruz
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación Navideña - Ayacucho Veracruz</h3>
                                     </div>
                                 </div>
                             </div>
@@ -305,10 +269,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-13.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación Navideña - Olla Común Dios es Amor V.M.T.
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación Navideña - Olla Común Dios es Amor V.M.T.</h3>
                                     </div>
                                 </div>
                             </div>
@@ -316,10 +277,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-14.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación Navideña - Olla Común Los Resilentes S.J.L.
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación Navideña - Olla Común Los Resilentes S.J.L.</h3>
                                     </div>
                                 </div>
                             </div>
@@ -327,10 +285,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-15.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación Navideña - Olla Común 8 de Octubre Nueva esperanza V.M.T.
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación Navideña - Olla Común 8 de Octubre Nueva esperanza V.M.T.</h3>
                                     </div>
                                 </div>
                             </div>
@@ -338,10 +293,7 @@
                                 <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-16.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Donación Olla Común Vallecito Alto V.M.T. - Colchas y Kits Escolares
-                                        </p>
+                                        <h3 class="card__title card__title--primary">Donación Olla Común Vallecito Alto V.M.T. - Colchas y Kits Escolares</h3>
                                     </div>
                                 </div>
                             </div>
@@ -350,7 +302,17 @@
                         <div class="swiper-pagination mt-auto"></div>
                         -->
                     </div>
-                    <a class="button button--primary" href=""><i class="bi bi-balloon-heart"></i> Ver más</a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section bg-green">
+            <div class="container f-elements f-col f-elements--center gap-md md:f-row ">
+                <p class="section__description">
+                    Tu ayuda es fundamental para ellos.
+                </p>
+                <div class="f-elements f-elements--center">
+                    <a class="button button--primary" href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación"><i class="bi bi-whatsapp"></i> ¡Dona hoy!</a>
                 </div>
             </div>
         </section>

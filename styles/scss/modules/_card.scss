@@ -49,7 +49,7 @@
     &__body {
       background-color: var(--reverse-secondary-shadow-color);
       padding: 1rem;
-      height: 150px;
+      height: 180px;
 
       &-services {
           color: var(--secondary-text-color);
@@ -59,12 +59,28 @@
     }
       
     &__title {
-      font-size: 1.325rem;
+      font-size: 1.125rem;
       text-align: center;
       margin: 0;
       font-weight: 700;
       text-transform: uppercase;
       padding: 1rem 1rem;
+
+      &--primary{
+        color: var(--primary-text-color);
+
+        &::before, &::after{
+          color: var(--primary-text-color);
+        }
+        
+        &::before {
+            content: '❤ ';
+          }
+          
+          &::after {
+            content: ' ❤';
+        }
+      }
     }
     
     &__subtitle {
@@ -77,6 +93,10 @@
       font-size: 1rem;
       text-align: center;
       margin: 0;
+
+      &--primary{
+        color: var(--primary-text-color);
+      }
 
       &::before, &::after{
         color: var(--primary-theme-color);

@@ -641,18 +641,30 @@
 .card__body {
   background-color: var(--reverse-secondary-shadow-color);
   padding: 1rem;
-  height: 150px;
+  height: 180px;
 }
 .card__body-services {
   color: var(--secondary-text-color);
 }
 .card__title {
-  font-size: 1.325rem;
+  font-size: 1.125rem;
   text-align: center;
   margin: 0;
   font-weight: 700;
   text-transform: uppercase;
   padding: 1rem 1rem;
+}
+.card__title--primary {
+  color: var(--primary-text-color);
+}
+.card__title--primary::before, .card__title--primary::after {
+  color: var(--primary-text-color);
+}
+.card__title--primary::before {
+  content: "❤ ";
+}
+.card__title--primary::after {
+  content: " ❤";
 }
 .card__subtitle {
   font-size: 1.125rem;
@@ -663,6 +675,9 @@
   font-size: 1rem;
   text-align: center;
   margin: 0;
+}
+.card__text--primary {
+  color: var(--primary-text-color);
 }
 .card__text::before, .card__text::after {
   color: var(--primary-theme-color);

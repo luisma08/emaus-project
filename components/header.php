@@ -65,7 +65,7 @@
                         <a href="#contact" class="list__link">Contáctanos</a>
                     </li>
                     <li>
-                        <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Donar</a>
+                        <a class="button button--primary" href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación"><i class="bi bi-balloon-heart"></i> Donar</a>
                     </li>
                 </ul>
             </div>

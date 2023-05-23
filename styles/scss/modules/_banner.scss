@@ -11,6 +11,10 @@
     padding-top: 6.65rem;
     height: 100%;
 
+    &__social{
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");
+    }
+
     @include desktop{
         height: 100vh;
     }

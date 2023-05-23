@@ -451,6 +451,9 @@
   padding-top: 6.65rem;
   height: 100%;
 }
+.banner__social {
+  background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");
+}
 @media (min-width: 768px) {
   .banner {
     height: 100vh;

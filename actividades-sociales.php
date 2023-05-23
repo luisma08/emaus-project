@@ -31,10 +31,10 @@
     <!-- FIN -->
 
     <main class="main">
-        <section class="banner">
+        <section class="banner banner__social">
             <div class="container f-elements f-elements--responsive gap-sm">
                 <div class="banner__container">
-                    <h1 class="banner__title">NUESTRAS ACTIVIDADES SOCIALES</h1>
+                    <h1 class="banner__title">ACTIVIDADES SOCIALES</h1>
                     <h2 class="banner__subtitle">¿A QUIÉN AYUDARÁS?</h2>
                     <p class="banner__description">
                         Gracias a tus donaciones podemos seguir ayudando a mas familias que necesitan de nosotros como ollas comunes, comedores, asentamientos humanos, entre otros; en Lima y Provincias.

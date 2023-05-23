@@ -402,7 +402,7 @@
                         <div class="swiper-pagination mt-auto"></div>
                         -->
                     </div>
-                    <a class="button button--primary" href=""><i class="bi bi-balloon-heart"></i> Ver más</a>
+                    <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más</a>
                 </div>
             </div>
         </section>

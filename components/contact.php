@@ -21,7 +21,7 @@
                                     <input type="tel" name="tel" id="tel" placeholder="Teléfono / Celular" required class="form__input" id="tel"/>
                                 </div>
                                 <div class="f-elements f-col gap-sm">
-                                    <textarea name="" placeholder="Comentarios" required class="form__textarea" id="description"></textarea>
+                                    <textarea name="description" placeholder="Comentarios" required class="form__textarea" id="description"></textarea>
                                 </div>
                                 <div id="response"></div>
                                 <div class="form__button">

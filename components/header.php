@@ -56,7 +56,7 @@
                     </a>
                 <ul class="list list--header f-elements f-col gap-md f-elements--center md:f-row" id="list-content">
                     <li>
-                        <a href="#services" class="list__link">¿Quiénes somos?</a>
+                        <a href="../nosotros.php" class="list__link">¿Quiénes somos?</a>
                     </li>
                     <li>
                         <a href="../actividades-sociales.php" class="list__link">Actividades sociales</a>

@@ -176,10 +176,55 @@
     font-size: 2rem;
   }
 }
+.section__text {
+  line-height: 2.5rem;
+  text-transform: uppercase;
+}
+@media (min-width: 768px) {
+  .section__text {
+    font-size: 3.125rem;
+    line-height: 3.625rem;
+  }
+}
+.section__text--primary {
+  font-size: 2rem;
+  color: var(--primary-theme-color);
+}
+@media (min-width: 768px) {
+  .section__text--primary {
+    font-size: 3.125rem;
+  }
+}
+.section__text--secondary {
+  font-size: 2rem;
+  color: var(--primary-p-color);
+}
+@media (min-width: 768px) {
+  .section__text--secondary {
+    font-size: 2.625rem;
+  }
+}
+.section__p {
+  font-size: 1.25rem;
+}
+@media (min-width: 768px) {
+  .section__p {
+    font-size: 1.625rem;
+  }
+}
 .section__title, .section__description {
   color: var(--primary-p-color);
   text-align: center;
   margin: 0;
+}
+.section__text, .section__p {
+  text-align: center;
+  margin: 0;
+}
+@media (min-width: 768px) {
+  .section__text, .section__p {
+    text-align: left;
+  }
 }
 .section__donaciones {
   width: 100%;
@@ -217,6 +262,10 @@
   .section__donaciones--description {
     font-size: 1.625rem;
   }
+}
+.section__img {
+  width: 100%;
+  max-width: 450px;
 }
 
 .container {

@@ -3,13 +3,13 @@
     padding-bottom: var(--padding-section);
 
     &__title{
-        font-size: 2rem;
-        line-height: 2.5rem;
-        @include desktop{
-          font-size: 3.125rem;
-          line-height: 3.625rem;
-        }
+      font-size: 2rem;
+      line-height: 2.5rem;
+      @include desktop{
+        font-size: 3.125rem;
+        line-height: 3.625rem;
       }
+    }
 
     &__description{
         font-size: 1.25rem;
@@ -18,10 +18,53 @@
         }
     }
 
+    &__text{
+      line-height: 2.5rem;
+      text-transform: uppercase;
+      @include desktop{
+        font-size: 3.125rem;
+        line-height: 3.625rem;
+      }
+
+      &--primary{
+        font-size: 2rem;
+        color: var(--primary-theme-color);
+
+        @include desktop{
+        font-size: 3.125rem;
+      }
+      }
+
+      &--secondary{
+        font-size: 2rem;
+        color: var(--primary-p-color);
+
+        @include desktop{
+        font-size: 2.625rem;
+      }
+      }
+    }
+
+    &__p{
+      font-size: 1.25rem;
+      @include desktop{
+        font-size: 1.625rem;
+      }
+    }
+
     &__title, &__description{
       color:var(--primary-p-color);
       text-align: center;
       margin: 0;
+    }
+
+    &__text, &__p{
+      text-align: center;
+      margin: 0;
+
+      @include desktop{
+        text-align: left;
+      }
     }
 
     &__donaciones{
@@ -57,6 +100,11 @@
             font-size: 1.625rem;
           }
       }
+    }
+
+    &__img{
+      width: 100%;
+      max-width: 450px;
     }
 
   }

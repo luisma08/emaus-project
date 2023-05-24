@@ -54,10 +54,10 @@
                     </div>
                     <div class="f-elements f-col gap-sm">
                         <div class="mx-responsive">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-telephone"></i> (+51) 923 995 006</a>
+                            <a href="tel:017574747" class="list list__link list__link--contact"><i class="bi bi-telephone"></i> (01) 757 4747</a>
                         </div>
                         <div class="mx-responsive">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-whatsapp"></i> (01) 757 4747</a>
+                            <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación" class="list list__link list__link--contact"><i class="bi bi-whatsapp"></i> (+51) 923 995 006</a>
                         </div>
                     </div>
                     <div>
@@ -73,13 +73,13 @@
                     </div>
                     <div class="mx-responsive">
                         <div class="">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> ¿Quiénes somos?</a>
+                            <a href="nosotros.php" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> ¿Quiénes somos?</a>
                         </div>
                         <div class="">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Actividades sociales</a>
+                            <a href="actividades-sociales.php" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Actividades sociales</a>
                         </div>
                         <div class="">
-                            <a href="" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contáctanos</a>
+                            <a href="#contact" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contáctanos</a>
                         </div>
                     </div>
                     <div class="">

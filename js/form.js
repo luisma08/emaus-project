@@ -9,15 +9,6 @@ document.getElementById("submit").addEventListener("click", e => {
   
     //resp.classList.remove("fail");
     //resp.classList.remove("send");
-  
-    //const message = `<div>
-    //                  <p>Hola, quisiera realizar una donacion</p>
-    //                  <p>Mis datos son los siguientes</p>
-    //                  <p>Nombre: ${name}</p>
-    //                  <p>Correo electronico: ${mail}</p>
-    //                  <p>Telefono: ${tel}</p>
-    //                  <p>Comentario: ${description}</p>
-    //                </div>`;
 
     var parametros = {
       name: name,
@@ -43,11 +34,23 @@ document.getElementById("submit").addEventListener("click", e => {
         return response.text();
       })
       .then(function(data) {
+        // Mostrar mensaje de éxito
+        Swal.fire({
+          icon: "success",
+          title: "Éxito",
+          text: "El correo ha sido enviado correctamente."
+        });
         // Manejar la respuesta del servidor
-        console.log(data);
+        // console.log(data);
       })
       .catch(function(error) {
-        console.log(error);
+        // Mostrar mensaje de error
+        Swal.fire({
+          icon: "error",
+          title: "Error",
+          text: "Error al enviar el correo: " + error
+        });
+        // console.log(error);
       });
 
   });

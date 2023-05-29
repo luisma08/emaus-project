@@ -36,7 +36,7 @@
         border-right: 0;
     }
     
-    &__input, &__input::placeholder, &__textarea::placeholder{
+    &__input, &__textarea, &__input::placeholder, &__textarea::placeholder{
         font-size: var(--nav-primary-font-size);
     }
     

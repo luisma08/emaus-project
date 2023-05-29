@@ -863,7 +863,7 @@
   border-left: 0;
   border-right: 0;
 }
-.form__input, .form__input::placeholder, .form__textarea::placeholder {
+.form__input, .form__textarea, .form__input::placeholder, .form__textarea::placeholder {
   font-size: var(--nav-primary-font-size);
 }
 .form__input:focus, .form__textarea:focus {

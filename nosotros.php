@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-<meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./styles/css/style.css">
     <link rel="stylesheet" href="./styles/css/fe.css">
@@ -20,9 +20,24 @@
     <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
 
     <!-- HTML Meta Tags -->
-    <title>Nosotros | Traperos de Emaús - Manos Solidarias</title>
+    <title>▷ Nosotros | Traperos de Emaús - Manos Solidarias</title>
     <meta name="description" content="Traperos de Emaús - Manos Solidarias | Somos un grupo de personas con vocación solidaria que trabajamos día a día para mejorar la calidad de vida de muchas personas que nos necesitan y con tu ayuda contribuir a un futuro mejor para todos">
     <meta name="keywords" content="traperos, traperos de emaus, donaciones en lima, donar, donde donar, donar ropa, donacion de ropa, donacion de ropa en deuso, donar muebles, donacion de muebles, donar muebles usados, donacion de juguetes, donar articulos usados, donde donar cosas usada, donacion de ropa usada, donar artefactos, donacion de artefactos, donar electrodomesticos, donacion de electrodomesticos, donar aparatos ortopedicos, donacion de aparatos ortopedicos, donacion de aparatos tecnologicos, donacion de secadoras, donaciones en lima, reciclaje en lima, reciclar artefactos malogrados lima, reciclaje de artefactos, donar a la caridad, donaciones en lima peru, lima peru, los traperos en lima, donacion de zapatos usados en lima, donacion de calzado, donde donar zapatos, donde donar ropa, donar sillas, donacion de vienes, donar mobiliario, donaciones en lima, donacion de camas, donar colchones, donacion de colchones, donar a emaus, donaciones emaus">
+
+    <!-- Facebook Meta Tags -->
+    <meta property="og:url" content="https://traperosdeemausms.org/donaciones/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Traperos de Emaús - Manos Solidarias [ Donaciones ]">
+    <meta property="og:description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta property="og:image" content="https://traperosdeemausms.org/donaciones/assets/img/logo/logo-emaus.webp">
+
+    <!-- Twitter Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="twitter:domain" content="traperosdeemausms.org">
+    <meta property="twitter:url" content="https://traperosdeemausms.org/donaciones/">
+    <meta name="twitter:title" content="Traperos de Emaús - Manos Solidarias [ Donaciones ]">
+    <meta name="twitter:description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta name="twitter:image" content="https://traperosdeemausms.org/donaciones/assets/img/logo/logo-emaus.webp">
 </head>
 <body class="body">
 

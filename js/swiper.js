@@ -10,7 +10,7 @@ var slideContainer4 = document.querySelector('.mySwiper4');
 var swiper1 = new Swiper(slideContainer1, {
     effect: "flip",
     autoplay:{
-      delay:3000,
+      delay:5000,
     },
     loop: true,
     pagination: {
@@ -57,7 +57,7 @@ var swiper4 = new Swiper(slideContainer4, {
     },
 
     autoplay:{
-        delay:2000,
+        delay:5000,
     },
 
     loop: true,

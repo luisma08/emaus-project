@@ -4,6 +4,7 @@ var slideContainer1 = document.querySelector('.mySwiper1');
 var slideContainer2 = document.querySelector('.mySwiper2');
 var slideContainer3 = document.querySelector('.mySwiper3');
 var slideContainer4 = document.querySelector('.mySwiper4');
+var slideContainer5 = document.querySelector('.mySwiper5');
 
 //slider effect flip
 
@@ -90,6 +91,49 @@ var swiper4 = new Swiper(slideContainer4, {
         }
       }
   });
+
+var swiper5 = new Swiper(slideContainer5, {
+  slidesPerView: 1,
+  spaceBetween: 10,
+  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+
+  autoplay:{
+      delay:5000,
+  },
+
+  loop: true,
+
+  breakpoints: {
+      // when window width is >= 320px
+      320: {
+        slidesPerView: 1,
+        spaceBetween: 10,
+      },
+
+      640: {
+        slidesPerView: 1,
+        spaceBetween: 20,
+      },
+
+      768: {
+          slidesPerView: 2,
+          spaceBetween: 30,
+      },
+
+      1024: {
+          slidesPerView: 3,
+          spaceBetween: 40,
+      },
+
+      1450: {
+        slidesPerView: 4,
+        spaceBetween: 40,
+      }
+    }
+});
 
 //event hover
 

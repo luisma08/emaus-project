@@ -3,13 +3,14 @@
     background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.webp");
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    //object-fit: cover;
+    object-fit: cover;
     //background: rgb(220,0,88);
     //background: linear-gradient(90deg, rgba(220,0,88,0.8463760504201681) 0%, rgba(220,0,88,1) 10%, rgba(220,0,88,0.835171568627451) 100%);
     box-sizing: border-box;
-    //margin-top: 2rem;
-    padding-top: 6.65rem;
+    margin-top: 3.5rem;
+    padding-top: 3.5rem;
     height: 100%;
+    background-position: center;
 
     &__social{
         background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");

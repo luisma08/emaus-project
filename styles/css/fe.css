@@ -530,9 +530,12 @@
   background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-1.webp");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+  object-fit: cover;
   box-sizing: border-box;
-  padding-top: 6.65rem;
+  margin-top: 3.5rem;
+  padding-top: 3.5rem;
   height: 100%;
+  background-position: center;
 }
 .banner__social {
   background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");

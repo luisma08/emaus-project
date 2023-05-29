@@ -471,11 +471,17 @@
 }
 .list--header {
   position: fixed;
+  top: 8.9rem;
   left: 0;
   width: 100%;
+  height: calc(100% - 8.9rem);
   background-color: var(--secondary-theme-color);
   transform: translateX(var(--translate-list-header));
   transition: transform 0.25s;
+}
+.list--header-scroll {
+  height: calc(100% - 5rem);
+  top: 5rem;
 }
 @media (min-width: 768px) {
   .list--header {

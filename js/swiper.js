@@ -141,27 +141,3 @@ var swiper5 = new Swiper(slideContainer5, {
     //swiper.autoplay.start();
   //  swiper1.slideNext();
   //});
-
-  //slideContainer1.addEventListener('mouseleave', () => {
-    //swiper.autoplay.stop();
-  //  swiper1.slideTo(0);
-  //});
-
-  slideContainer2.addEventListener('mouseenter', () => {
-    //swiper.autoplay.start();
-    swiper2.slideNext();
-  });
-
-  slideContainer2.addEventListener('mouseleave', () => {
-    //swiper.autoplay.stop();
-    swiper2.slideTo(0);
-  });
-  slideContainer3.addEventListener('mouseenter', () => {
-    //swiper.autoplay.start();
-    swiper3.slideNext();
-  });
-
-  slideContainer3.addEventListener('mouseleave', () => {
-    //swiper.autoplay.stop();
-    swiper3.slideTo(0);
-  });

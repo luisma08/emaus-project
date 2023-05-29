@@ -406,13 +406,13 @@
                 </div>
             </div>
         </section>
-
+        
         <!--  Actividades Navideñas  -->
 
-        <section class="section" id="">
+        <section class="section bg-green" id="">
             <div class="container f-elements f-col">
                 <p class="section__description">Algunas de nuestras</p>
-                <h3 class="section__title">Actividades Navideñas</h3>
+                <h3 class="section__title section__title--primary">Actividades Navideñas</h3>
                 <div class="f-elements f-col f-elements--center gap-md py-md">
                     <div class="swiper mySwiper5">
                         <div class="swiper-wrapper">
@@ -588,6 +588,7 @@
             </div>
         </section>
 
+        
         <!-- SECCIONES CONSULTAS -->
         <section class="section" id="services">
             <div class="container f-elements f-col gap-md">

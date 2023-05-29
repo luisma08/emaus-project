@@ -1,4 +1,4 @@
-<?php
+b<?php
 //Import PHPMailer classes into the global namespace
 //These must be at the top of your script, not inside a function
 use PHPMailer\PHPMailer\PHPMailer;
@@ -8,7 +8,14 @@ use PHPMailer\PHPMailer\Exception;
 //Load Composer's autoloader
 require '../vendor/autoload.php';
 
-$message = $_POST['message'];
+// Recuperar los datos enviados por JavaScript
+$data = json_decode(file_get_contents('php://input'), true);
+
+//Datos del formulario
+$name = $data['name'];
+$email = $data['mail'];
+$tel = $data['tel'];
+$message = $data['description'];
 
 //Create an instance; passing `true` enables exceptions
 $mail = new PHPMailer(true);
@@ -26,12 +33,12 @@ try {
 
     //Recipients
     $mail->setFrom('informes@traperosdeemausms.org', 'Traperos de Emaus MS');
-    $mail->addAddress('luismayta08@gmail.com');
+    $mail->addAddress('emausmanossolidarias@gmail.com');
 
     //Content
     $mail->isHTML(true);                                  //Set email format to HTML
     $mail->Subject = 'Nueva donacion desde Traperos de Emaus MS';
-    $mail->Body    = $message;
+    $mail->Body    = "Hola, quisiera realizar una donacion.<br/>Mis datos son los siguientes<br/>Nombre: $name<br/>Correo electronico: $email<br/>Telefono: $tel<br/>Comentario: $message";
 
     $mail->send();
     echo 'Correo enviado exitosamente';

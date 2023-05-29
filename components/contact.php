@@ -9,10 +9,10 @@
                         <p class="contact__description">¡ Recogemos a domicilio !</p>
                     </div>
                     <div class="f-elements f-elements--center f-col gap-sm w-100">
-                        <form action="" class="form f-elements f-col gap-sm">
+                        <form action="" method="" class="form f-elements f-col gap-sm" id="contact-form">
                             <div class="f-elements f-col gap-sm">
                                 <div class="f-elements f-col gap-sm">
-                                    <input type="text" placeholder="Nombre completo" class="form__input" id="name"/>
+                                    <input type="text" name="name" placeholder="Nombre completo" class="form__input" id="name"/>
                                 </div>
                                 <div class="f-elements f-col gap-sm">
                                     <input type="email" name="mail" placeholder="Correo electronico" required class="form__input" id="mail"/>

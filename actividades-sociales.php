@@ -188,6 +188,46 @@
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="card border">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-49.webp" alt="" class="card__img">
+                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
+                                        <h3 class="card__title card__title--primary">Donación de útiles escolares - Colegio Juan XXIII - Andahuaylas</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card border">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-50.webp" alt="" class="card__img">
+                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
+                                        <h3 class="card__title card__title--primary">Donación de armario en Centro de salud mental - Villa El Salvador</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card border">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-51.webp" alt="" class="card__img">
+                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
+                                        <h3 class="card__title card__title--primary">Donación de útiles escolares y víveres - Olla común José Gálvez - Villa María Del Triunfo</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card border">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-52.webp" alt="" class="card__img">
+                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
+                                        <h3 class="card__title card__title--primary">Donación de víveres y calaminas comedor Jicamarca - San Juan De Lurigancho</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card border">
+                                    <img src="assets/img/actividades-sociales/actividades-sociales-53.webp" alt="" class="card__img">
+                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
+                                        <h3 class="card__title card__title--primary">Donación para familias en Jicamarca - San Juan De Lurigancho</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-slide">
+                                <div class="card border">
                                     <img src="assets/img/actividades-sociales/actividades-sociales-33.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Olla común em el distrito de Villa María del Triunfo, en el AA.HH Divino Niño Jesus</h3>

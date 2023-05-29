@@ -15,10 +15,10 @@
                                     <input type="text" placeholder="Nombre completo" class="form__input" id="name"/>
                                 </div>
                                 <div class="f-elements f-col gap-sm">
-                                    <input type="email" name="mail" id="mail" placeholder="Correo electronico" required class="form__input" id="mail"/>
+                                    <input type="email" name="mail" placeholder="Correo electronico" required class="form__input" id="mail"/>
                                 </div>
                                 <div class="f-elements f-col gap-sm">
-                                    <input type="tel" name="tel" id="tel" placeholder="Teléfono / Celular" required class="form__input" id="tel"/>
+                                    <input type="tel" name="tel" placeholder="Teléfono / Celular" required class="form__input" id="tel"/>
                                 </div>
                                 <div class="f-elements f-col gap-sm">
                                     <textarea name="description" placeholder="Comentarios" required class="form__textarea" id="description"></textarea>

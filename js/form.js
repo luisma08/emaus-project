@@ -6,33 +6,38 @@ document.querySelector("#submit").addEventListener("click", e => {
   
     const name = document.querySelector("#name").value;
     const mail = document.querySelector("#mail").value;
-    const services = document.querySelector("#tel").value;
+    const tel = document.querySelector("#tel").value;
     const description = document.querySelector("#description").value;
     const resp = document.querySelector("#response");
   
     resp.classList.remove("fail");
     resp.classList.remove("send");
   
-    const url = `https://api.whatsapp.com/send?phone=${telefono}&text=
-          *_Hola, Emaús Manos solidarias_*%0A
-          *Quisiera Realizar una donación*%0A%0A
-          *Nombre:*%0A
-          ${name}%0A
-          *Correo electronico:*%0A
-          ${mail}%0A
-          *Telefono/Celular*%0A
-          ${tel}%0A
-          *Comentario*%0A
-          ${description}`;
+    const message = `<div>
+                      <p>Hola, quisiera realizar una donacion</p>
+                      <p>Mis datos son los siguientes</p>
+                      <p>Nombre: ${name}</p>
+                      <p>Correo electronico: ${mail}</p>
+                      <p>Telefono: ${tel}</p>
+                      <p>Comentario: ${description}</p>
+                    </div>`;
+
+    var form = message;
+    var formData = new FormData(form);
   
-    if (name === "" || mail === "") {
-      resp.classList.add("fail");
-      resp.innerHTML = `Faltan algunos datos, ${name}`;
-      return false;
-    }
-    resp.classList.remove("fail");
-    resp.classList.add("send");
-    resp.innerHTML = `Se ha enviado tu mensaje, ${name}`;
-  
-    window.open(url);
+    // Realiza una petición AJAX
+    var xhr = new XMLHttpRequest();
+    xhr.open('POST', 'enviar_correo.php', true);
+    xhr.onload = function() {
+      // Maneja la respuesta del servidor aquí
+      if (xhr.status === 200) {
+        alert('Correo enviado exitosamente');
+        form.reset(); // Limpia el formulario después de enviar el correo
+      } else {
+        alert('Error al enviar el correo');
+      }
+    };
+    
+    xhr.send(formData);
+
   });

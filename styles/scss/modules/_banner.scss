@@ -42,12 +42,13 @@
     }
     
     &__title{
-        font-size: 2.625rem;
+        font-size: 2.225rem;
         color: var(--third-text-color);
-        line-height: 3.125rem;
+        line-height: 2.625rem;
 
         @include desktop{
             font-size: 3rem;
+            line-height: 3.125rem;
         }
         &-span{
             color: var(--span-text-color);
@@ -61,7 +62,7 @@
     }
 
     &__subtitle{
-        font-size: 1.625rem;
+        font-size: 1.325rem;
         color: var(--third-text-color);
         @include desktop{
             font-size: 1.825rem;
@@ -70,7 +71,7 @@
     }
     
     &__description{
-        font-size: 1.325rem;
+        font-size: 1rem;
         color: var(--third-text-color);
         @include desktop{
             font-size: 1.225rem;

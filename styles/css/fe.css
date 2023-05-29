@@ -179,8 +179,8 @@
 }
 
 .h-0 {
-  top: 8.9rem;
   height: calc(100% - 8.9rem);
+  top: 8.9rem;
 }
 
 .h-1 {
@@ -564,13 +564,14 @@
   text-transform: uppercase;
 }
 .banner__title {
-  font-size: 2.625rem;
+  font-size: 2.225rem;
   color: var(--third-text-color);
-  line-height: 3.125rem;
+  line-height: 2.625rem;
 }
 @media (min-width: 768px) {
   .banner__title {
     font-size: 3rem;
+    line-height: 3.125rem;
   }
 }
 .banner__title-span {
@@ -584,7 +585,7 @@
   }
 }
 .banner__subtitle {
-  font-size: 1.625rem;
+  font-size: 1.325rem;
   color: var(--third-text-color);
 }
 @media (min-width: 768px) {
@@ -594,7 +595,7 @@
   }
 }
 .banner__description {
-  font-size: 1.325rem;
+  font-size: 1rem;
   color: var(--third-text-color);
 }
 @media (min-width: 768px) {

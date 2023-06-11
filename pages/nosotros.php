@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/css/style.css">
-    <link rel="stylesheet" href="./styles/css/fe.css">
+    <link rel="stylesheet" href="../styles/css/style.css">
+    <link rel="stylesheet" href="../styles/css/fe.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link
       rel="stylesheet"
@@ -47,7 +47,7 @@
 
     <main class="main">
         <section class="banner banner__social">
-            <div class="container f-elements f-elements--responsive gap-sm">
+            <div class="container">
                 <div class="banner__container">
                     <p class="banner__title">¿QUIENES SOMOS?</p>
                     <p class="banner__subtitle">

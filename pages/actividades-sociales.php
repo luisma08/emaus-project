@@ -49,7 +49,7 @@
 
     <main class="main">
         <section class="banner banner__social">
-            <div class="container f-elements f-elements--responsive gap-sm">
+            <div class="container">
                 <div class="banner__container">
                     <h1 class="banner__title">ACTIVIDADES SOCIALES</h1>
                     <h2 class="banner__subtitle">¿A QUIÉN AYUDARÁS?</h2>

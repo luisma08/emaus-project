@@ -14,7 +14,7 @@ $rutas = [
 if (array_key_exists($url, $rutas)) {
     // Construir la ruta del archivo
     $rutaArchivo = 'pages/' . $rutas[$url] . '.php';
-    print_r($url);
+    //print_r($url);
     
     // Verificar si el archivo existe
     if (file_exists($rutaArchivo)) {

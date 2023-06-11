@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/css/style.css">
-    <link rel="stylesheet" href="./styles/css/fe.css">
+    <link rel="stylesheet" href="../styles/css/style.css">
+    <link rel="stylesheet" href="../styles/css/fe.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link
       rel="stylesheet"
@@ -49,7 +49,7 @@
 
     <main class="main">
         <section class="banner">
-            <div class="container f-elements f-elements--responsive gap-sm">
+            <div class="container">
                 <div class="banner__container">
                     <h1 class="banner__title">Traperos de Emaús <span class="banner__title-span">Donaciones</span></h1>
                     <h2 class="banner__subtitle">¡Dona desde la comodidad de tu hogar!</h2>

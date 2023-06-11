@@ -658,9 +658,6 @@
         <!-- Agregando componente footer -->
         <?php include('./components/contact.php') ?>
         <!-- FIN -->
-
-        <section class="section">
-        </section>
     </main>
 
     <!-- Agregando componente footer -->

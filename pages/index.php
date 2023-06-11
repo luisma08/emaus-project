@@ -593,7 +593,7 @@
         <section class="section" id="services">
             <div class="container f-elements f-col gap-md">
               <h3 class="section__title">¿Cómo donar?</h3>
-              <P class="section__description">Sigue los siguientes pasos para poder realizar tu donación</P>
+              <p class="section__description">Sigue los siguientes pasos para poder realizar tu donación:</p>
               <div class="g-elements g-elements--center gap-md g-template-columns-3fr">
                 <div class="card card__services f-elements f-col f-elements--center">
                     <div class="card__img-icon f-elements f-elements--center">

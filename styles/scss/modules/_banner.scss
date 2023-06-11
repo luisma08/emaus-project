@@ -13,8 +13,13 @@
         //height: auto;
     }
 
+    &__donaciones{
+        background-image: linear-gradient(rgba(0, 0, 0, var(--opacidad-negro)), rgba(0, 0, 0, var(--opacidad-negro))), url("../../assets/img/banners/banner-home-2.webp");
+        //height: auto;
+    }
+
     @include desktop{
-        height: 100vh;
+        height: 600px;
     }
 
     &__container{
@@ -56,6 +61,10 @@
             @include desktop{
                 font-size: 2.125rem;
             }
+        }
+
+        & b{
+            color: var(--span-text-color);
         }
     }
 

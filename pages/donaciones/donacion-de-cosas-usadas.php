@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./styles/css/style.css">
-    <link rel="stylesheet" href="./styles/css/fe.css">
+    <link rel="stylesheet" href="../styles/css/style.css">
+    <link rel="stylesheet" href="../styles/css/fe.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link
       rel="stylesheet"
@@ -17,10 +17,10 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
-    <link rel="shortcut icon" href="./assets/icon/favicon.webp" type="image/svg+xml">
+    <link rel="shortcut icon" href="../assets/icon/favicon.webp" type="image/svg+xml">
 
     <!-- HTML Meta Tags -->
-    <title>▷ Donaciones | Traperos de Emaús - Manos Solidarias</title>
+    <title>▷ Donación de Cosas Usadas | Traperos de Emaús - Manos Solidarias</title>
     <meta name="description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
     <meta name="keywords" content="traperos, traperos de emaus, donaciones en lima, donar, donde donar, donar ropa, donacion de ropa, donacion de ropa en deuso, donar muebles, donacion de muebles, donar muebles usados, donacion de juguetes, donar articulos usados, donde donar cosas usada, donacion de ropa usada, donar artefactos, donacion de artefactos, donar electrodomesticos, donacion de electrodomesticos, donar aparatos ortopedicos, donacion de aparatos ortopedicos, donacion de aparatos tecnologicos, donacion de secadoras, donaciones en lima, reciclaje en lima, reciclar artefactos malogrados lima, reciclaje de artefactos, donar a la caridad, donaciones en lima peru, lima peru, los traperos en lima, donacion de zapatos usados en lima, donacion de calzado, donde donar zapatos, donde donar ropa, donar sillas, donacion de vienes, donar mobiliario, donaciones en lima, donacion de camas, donar colchones, donacion de colchones, donar a emaus, donaciones emaus">
 
@@ -43,112 +43,90 @@
 </head>
 <body class="body">
     <!-- Agregando componente header -->
-    <?php include('./components/header.php') ?>
+    <?php include('./components/donaciones/header.php') ?>
     <!-- FIN -->
 
     <main class="main">
-        <section class="banner">
+        <section class="banner banner__donaciones f-elements f-elements--center">
             <div class="container">
-                <div class="banner__container">
-                    <h1 class="banner__title"><b>Donaciones</b></h1>
-                    <p class="banner__subtitle">¡Dona desde la comodidad de tu hogar!</p>
-                    <a class="button button--primary" href="#contact"><i class="bi bi-balloon-heart"></i> Ayudanos a Donar</a>
+                <div class="f-elements f-col f-elements--center py-md">
+                    <p class="banner__title text-center py-md">Donación de Cosas Usadas</p>
                 </div>
             </div>
         </section>
-
-        <!-- Seccion CTA -->
 
         <section class="section bg-green">
-            <div class="container f-elements f-col f-elements--center gap-md md:f-row ">
+            <div class="container f-elements f-col f-elements--center">
                 <p class="section__description">
-                    Dona desde tu hogar o trabajo
+                    Tu ayuda es fundamental para ellos
                 </p>
-                <div class="f-elements f-elements--center">
-                    <a class="button button--primary" href="tel:923995006"><i class="bi bi-telephone"></i> Llamanos</a>
-                </div>
             </div>
         </section>
-
-        <!-- DONACIONES -->
+        
         <section class="section">
             <div class="container">
-                <div class="f-elements f-col f-elements--center gap-md">
-                    <p class="section__title">¿Qué puedes donar?</p>
-                    <div class="g-elements g-center gap-md g-template-columns">
-                        <a href="/donaciones/donacion-de-cosas-usadas">
-                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                <div class="g-elements g-elements--responsive gap-md">
+                    <div class="f-elements f-col gap-sm">
+                        <div class="f-elements f-col">
+                            <h2 class="section__text section__text--primary">Donación De Cosas Usadas</h2>
+                        </div>
+                        <p class="section__p">
+                            <b>Traperos de Emaús Manos Solidarias</b> busca el apoyo de empresas, instituciones y familias generosas 
+                            para <b>donar artículos usados</b> y así continuar nuestra labor de ayudar a aquellos que se encuentran en situaciones de vulnerabilidad.
+                        </p>
+                        <p class="section__p">
+                            En el Perú, hay un elevado número de personas discapacitadas y pacientes hospitalizados 
+                            que carecen del respaldo familiar y económico necesario para enfrentar sus enfermedades y seguir adelante.
+                        </p>
+                        <p class="section__p">
+                            Confiamos en poder contar con tu apoyo. Si deseas colaborar con aquellos 
+                            que tienen menos y unirte a esta campaña de esperanza, por favor, ponte en contacto con nosotros a través de los siguientes números de teléfono:
+                        </p>
+                        <div class="f-elements f-col gap-sm py-md">
+                            <div class="mx-responsive">
+                                <a href="tel:017574747" class="list list__link list__link--contact"><i class="bi bi-telephone"></i> (01) 757 4747</a>
+                            </div>
+                            <div class="mx-responsive">
+                                <a href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación" class="list list__link list__link--contact"><i class="bi bi-whatsapp"></i> (+51) 923 995 006</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="f-elements f-col gap-md">
+                        <div class="f-elements f-elements--center f-col border border__dotted my-auto mx-auto">
+                            <div class="contact__header">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/ropa-ico.webp" alt="donacion-de-cosas-usadas" class="card__icon icon">
+                                    <img src="../assets/img/logo/logo-emaus.webp" alt="logo" class="contact__logo" />
                                 </div>
-                                <div class="f-elements f-col f-elements--center">
-                                    <h2 class="card__title card__title--responsive">Donación de Cosas Usadas</h2>
-                                </div>
+                                <p class="contact__title">Ayudanos con tu donacion</p>
+                                <p class="contact__description">¡ Recogemos a domicilio !</p>
                             </div>
-                        </a>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/ropa-ico.webp" alt="donacion-de-ropa" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Ropa</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/muebles-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Muebles</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/electrodomestico-ico.webp" alt="donacion-de-electrodomesticos" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Electrodomésticos</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/tecnologia-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Computadoras</h2>
+                            <div class="f-elements f-elements--center f-col gap-sm w-100">
+                                <form action="" method="" class="form f-elements f-col gap-sm" id="contact-form">
+                                    <div class="f-elements f-col gap-sm">
+                                        <div class="f-elements f-col gap-sm">
+                                            <input type="text" name="name" placeholder="Nombre completo" class="form__input" id="name"/>
+                                        </div>
+                                        <div class="f-elements f-col gap-sm">
+                                            <input type="email" name="mail" placeholder="Correo electronico" required class="form__input" id="mail"/>
+                                        </div>
+                                        <div class="f-elements f-col gap-sm">
+                                            <input type="tel" name="tel" placeholder="Teléfono / Celular" required class="form__input" id="tel"/>
+                                        </div>
+                                        <div class="f-elements f-col gap-sm">
+                                            <textarea name="description" placeholder="Comentarios" required class="form__textarea" id="description"></textarea>
+                                        </div>
+                                        <div id="response"></div>
+                                        <div class="form__button">
+                                            <button class="button button--primary" id="submit"><i class="bi bi-envelope-heart"></i> Deseo donar</button>
+                                        </div>
+                                    </div>
+                                </form>
+                                <script src="../js/form.js"></script>
+                                <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
                             </div>
                         </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Aires Acondicionados</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/ortopedicos-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Artefactos</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Libros</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/alimentos-ico.webp" alt="donacion-de-reciclaje" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de reciclaje</h2>
-                            </div>
+                        <div class="f-elements f-elements--center f-col">
+                            <img class="section__img border" src="../assets/img/actividades-sociales/actividades-sociales-28.webp" alt="">
                         </div>
                     </div>
                 </div>
@@ -158,7 +136,7 @@
         <!-- SECCIONES CONSULTAS -->
         <section class="section" id="services">
             <div class="container f-elements f-col gap-md">
-              <p class="section__title">¿Cómo donar?</p>
+              <h3 class="section__title">¿Dónde donar <b>cosas usadas</b>?</h3>
               <p class="section__description">Sigue los siguientes pasos para poder realizar tu donación:</p>
               <div class="g-elements g-elements--center gap-md g-template-columns-3fr">
                 <div class="card card__services f-elements f-col f-elements--center">
@@ -219,27 +197,13 @@
               </div>
             </div>
         </section>
-
-        <section class="section bg-green">
-            <div class="container f-elements f-col f-elements--center gap-md md:f-row ">
-                <p class="section__description">
-                    Tu ayuda es fundamental para ellos.
-                </p>
-                <div class="f-elements f-elements--center">
-                    <a class="button button--primary" href="https://wa.me/+51923995006?text=Hola Emaús Manos Solidarias, quisiera realizar una donación"><i class="bi bi-whatsapp"></i> ¡Dona hoy!</a>
-                </div>
-            </div>
-        </section>
-
-        <!-- Agregando componente footer -->
-        <?php include('./components/contact.php') ?>
-        <!-- FIN -->
     </main>
 
     <!-- Agregando componente footer -->
-    <?php include('./components/footer.php') ?>
+    <?php include('./components/donaciones/footer.php') ?>
     <!-- FIN -->
-
-    <script src="./js/header.js"></script>
+    
+    <script src="./js/swiper.js" type="module"></script>
+    <script src="../js/header.js"></script>
 </body>
 </html>

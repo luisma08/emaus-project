@@ -21,13 +21,13 @@
 
     <!-- HTML Meta Tags -->
     <title>▷ Donación de Electrodomésticos | Traperos de Emaús - Manos Solidarias</title>
-    <meta name="description" content="Apoya a quienes más lo necesitan con la donación de electrodomésticos | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta name="description" content="Donación de Electrodomésticos en Lima - Perú | Apoya a quienes más lo necesitan con la donación de electrodomésticos | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
 
     <!-- Facebook Meta Tags -->
     <meta property="og:url" content="https://traperosdeemausms.org/donaciones/donacion-de-electrodomesticos">
     <meta property="og:type" content="website">
     <meta property="og:title" content="Donación de Electrodomésticos | Traperos de Emaús - Manos Solidarias">
-    <meta property="og:description" content="Apoya a quienes más lo necesitan con la donación de electrodomésticos | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta property="og:description" content="Donación de Electrodomésticos en Lima - Perú | Apoya a quienes más lo necesitan con la donación de electrodomésticos | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
     <meta property="og:image" content="https://traperosdeemausms.org/donaciones/assets/img/logo/logo-emaus.webp">
 
     <!-- Twitter Meta Tags -->
@@ -35,7 +35,7 @@
     <meta property="twitter:domain" content="traperosdeemausms.org">
     <meta property="twitter:url" content="https://traperosdeemausms.org/donaciones/donacion-de-electrodomesticos">
     <meta name="twitter:title" content="Donación de Electrodomésticos | Traperos de Emaús - Manos Solidarias">
-    <meta name="twitter:description" content="Apoya a quienes más lo necesitan con la donación de electrodomésticos | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta name="twitter:description" content="Donación de Electrodomésticos en Lima - Perú | Apoya a quienes más lo necesitan con la donación de electrodomésticos | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
     <meta name="twitter:image" content="https://traperosdeemausms.org/donaciones/assets/img/logo/logo-emaus.webp">
 
     <!-- Meta Tags Generated via https://www.opengraph.xyz -->

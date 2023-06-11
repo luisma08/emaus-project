@@ -76,7 +76,7 @@
                 <div class="f-elements f-col f-elements--center gap-md">
                     <p class="section__title">¿Qué puedes donar?</p>
                     <div class="g-elements g-center gap-md g-template-columns">
-                        <a href="/donaciones/donacion-de-cosas-usadas">
+                        <a href="/donaciones/donacion-de-cosas-usadas" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
                                     <img src="../assets/icon/ropa-ico.webp" alt="donacion-de-cosas-usadas" class="card__icon icon">
@@ -86,70 +86,136 @@
                                 </div>
                             </div>
                         </a>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/ropa-ico.webp" alt="donacion-de-ropa" class="card__icon icon">
+                        <a href="/donaciones/donacion-de-ropa" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/ropa-ico.webp" alt="donacion-de-ropa" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de Ropa</h2>
+                                </div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Ropa</h2>
+                        </a>
+                        <a href="/donaciones/donacion-de-muebles" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/muebles-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de Muebles</h2>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/muebles-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                        </a>
+                        <a href="/donaciones/donacion-de-" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/electrodomestico-ico.webp" alt="donacion-de-electrodomesticos" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de Electrodomésticos</h2>
+                                </div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Muebles</h2>
+                        </a>
+                        <a href="/donaciones/donacion-de-computadoras" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/tecnologia-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de Computadoras</h2>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/electrodomestico-ico.webp" alt="donacion-de-electrodomesticos" class="card__icon icon">
+                        </a>
+                        <a href="/donaciones/donacion-de-aires-acondicionados" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de Aires Acondicionados</h2>
+                                </div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Electrodomésticos</h2>
+                        </a>
+                        <a href="/donaciones/donacion-de-artefactos" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/ortopedicos-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de Artefactos</h2>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/tecnologia-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                        </a>
+                        <a href="/donaciones/donacion-de-libros" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de Libros</h2>
+                                </div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Computadoras</h2>
+                        </a>
+                        <a href="/donaciones/donacion-de-reciclaje" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/alimentos-ico.webp" alt="donacion-de-reciclaje" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Donación de reciclaje</h2>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                        </a>
+                        <a href="/donaciones/emaus-en-la-molina" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-la-molina" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Emaús en La Molina</h2>
+                                </div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Aires Acondicionados</h2>
+                        </a>
+                        <a href="/donaciones/emaus-en-miraflores" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-miraflores" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Emaús en Miraflores</h2>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/ortopedicos-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                        </a>
+                        <a href="/donaciones/emaus-en-san-borja" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-san-borja" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Emaús en San Borja</h2>
+                                </div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Artefactos</h2>
+                        </a>
+                        <a href="/donaciones/emaus-en-san-isidro" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-san-isidro" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Emaús en San Isidro</h2>
+                                </div>
                             </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                        </a>
+                        <a href="/donaciones/emaus-en-santiago-de-surco" class="card__link">
+                            <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
+                                <div class="f-elements f-elements--center">
+                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-santiago-de-surco" class="card__icon icon">
+                                </div>
+                                <div class="f-elements f-col f-elements--center">
+                                    <h2 class="card__title card__title--responsive">Emaús en Santiago de Surco</h2>
+                                </div>
                             </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de Libros</h2>
-                            </div>
-                        </div>
-                        <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
-                            <div class="f-elements f-elements--center">
-                                <img src="../assets/icon/alimentos-ico.webp" alt="donacion-de-reciclaje" class="card__icon icon">
-                            </div>
-                            <div class="f-elements f-col f-elements--center">
-                                <h2 class="card__title card__title--responsive">Donación de reciclaje</h2>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                 </div>
             </div>

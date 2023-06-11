@@ -868,6 +868,9 @@
 .card__text::after {
   content: "❤";
 }
+.card__link {
+  text-decoration: none;
+}
 
 .icon {
   animation: t-rotate 2.5s linear infinite;

@@ -79,7 +79,7 @@
                         <a href="/donaciones/donacion-de-cosas-usadas" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/ropa-ico.webp" alt="donacion-de-cosas-usadas" class="card__icon icon">
+                                    <img src="../assets/icon/ico-cosasusadas.webp" alt="donacion-de-cosas-usadas" class="card__icon icon">
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Donación de Cosas Usadas</h2>
@@ -129,7 +129,10 @@
                         <a href="/donaciones/donacion-de-aires-acondicionados" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-fan card__icon icon" viewBox="0 0 16 16">
+                                        <path d="M10 3c0 1.313-.304 2.508-.8 3.4a1.991 1.991 0 0 0-1.484-.38c-.28-.982-.91-2.04-1.838-2.969a8.368 8.368 0 0 0-.491-.454A5.976 5.976 0 0 1 8 2c.691 0 1.355.117 1.973.332.018.219.027.442.027.668Zm0 5c0 .073-.004.146-.012.217 1.018-.019 2.2-.353 3.331-1.006a8.39 8.39 0 0 0 .57-.361 6.004 6.004 0 0 0-2.53-3.823 9.02 9.02 0 0 1-.145.64c-.34 1.269-.944 2.346-1.656 3.079.277.343.442.78.442 1.254Zm-.137.728a2.007 2.007 0 0 1-1.07 1.109c.525.87 1.405 1.725 2.535 2.377.2.116.402.222.605.317a5.986 5.986 0 0 0 2.053-4.111c-.208.073-.421.14-.641.199-1.264.339-2.493.356-3.482.11ZM8 10c-.45 0-.866-.149-1.2-.4-.494.89-.796 2.082-.796 3.391 0 .23.01.457.027.678A5.99 5.99 0 0 0 8 14c.94 0 1.83-.216 2.623-.602a8.359 8.359 0 0 1-.497-.458c-.925-.926-1.555-1.981-1.836-2.96-.094.013-.191.02-.29.02ZM6 8c0-.08.005-.16.014-.239-1.02.017-2.205.351-3.34 1.007a8.366 8.366 0 0 0-.568.359 6.003 6.003 0 0 0 2.525 3.839 8.37 8.37 0 0 1 .148-.653c.34-1.267.94-2.342 1.65-3.075A1.988 1.988 0 0 1 6 8Zm-3.347-.632c1.267-.34 2.498-.355 3.488-.107.196-.494.583-.89 1.07-1.1-.524-.874-1.406-1.733-2.541-2.388a8.363 8.363 0 0 0-.594-.312 5.987 5.987 0 0 0-2.06 4.106c.206-.074.418-.14.637-.199ZM8 9a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"/>
+                                        <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14Zm0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16Z"/>
+                                    </svg>
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Donación de Aires Acondicionados</h2>
@@ -139,7 +142,9 @@
                         <a href="/donaciones/donacion-de-artefactos" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/ortopedicos-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pc-horizontal card__icon icon" viewBox="0 0 16 16">
+                                        <path d="M1 6a1 1 0 0 0-1 1v3a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V7a1 1 0 0 0-1-1H1Zm11.5 1a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1Zm2 0a.5.5 0 1 1 0 1 .5.5 0 0 1 0-1ZM1 7.5a.5.5 0 0 1 .5-.5h5a.5.5 0 0 1 0 1h-5a.5.5 0 0 1-.5-.5ZM1.25 9h5.5a.25.25 0 0 1 0 .5h-5.5a.25.25 0 0 1 0-.5Z"/>
+                                    </svg>
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Donación de Artefactos</h2>
@@ -149,7 +154,9 @@
                         <a href="/donaciones/donacion-de-libros" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/juguetes-ico.webp" alt="donacion-de-muebles" class="card__icon icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-book card__icon icon" viewBox="0 0 16 16">
+                                        <path d="M1 2.828c.885-.37 2.154-.769 3.388-.893 1.33-.134 2.458.063 3.112.752v9.746c-.935-.53-2.12-.603-3.213-.493-1.18.12-2.37.461-3.287.811V2.828zm7.5-.141c.654-.689 1.782-.886 3.112-.752 1.234.124 2.503.523 3.388.893v9.923c-.918-.35-2.107-.692-3.287-.81-1.094-.111-2.278-.039-3.213.492V2.687zM8 1.783C7.015.936 5.587.81 4.287.94c-1.514.153-3.042.672-3.994 1.105A.5.5 0 0 0 0 2.5v11a.5.5 0 0 0 .707.455c.882-.4 2.303-.881 3.68-1.02 1.409-.142 2.59.087 3.223.877a.5.5 0 0 0 .78 0c.633-.79 1.814-1.019 3.222-.877 1.378.139 2.8.62 3.681 1.02A.5.5 0 0 0 16 13.5v-11a.5.5 0 0 0-.293-.455c-.952-.433-2.48-.952-3.994-1.105C10.413.809 8.985.936 8 1.783z"/>
+                                    </svg>
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Donación de Libros</h2>
@@ -159,7 +166,7 @@
                         <a href="/donaciones/donacion-de-reciclaje" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/alimentos-ico.webp" alt="donacion-de-reciclaje" class="card__icon icon">
+                                    <img src="../assets/icon/ico-reciclaje.webp" alt="donacion-de-reciclaje" class="card__icon icon">
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Donación de reciclaje</h2>
@@ -169,7 +176,7 @@
                         <a href="/donaciones/emaus-en-la-molina" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-la-molina" class="card__icon icon">
+                                    <img src="../assets/icon/ico-emaus.webp" alt="emaus-en-la-molina" class="card__icon icon">
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Emaús en La Molina</h2>
@@ -179,7 +186,7 @@
                         <a href="/donaciones/emaus-en-miraflores" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-miraflores" class="card__icon icon">
+                                    <img src="../assets/icon/ico-emaus.webp" alt="emaus-en-miraflores" class="card__icon icon">
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Emaús en Miraflores</h2>
@@ -189,7 +196,7 @@
                         <a href="/donaciones/emaus-en-san-borja" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-san-borja" class="card__icon icon">
+                                    <img src="../assets/icon/ico-emaus.webp" alt="emaus-en-san-borja" class="card__icon icon">
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Emaús en San Borja</h2>
@@ -199,7 +206,7 @@
                         <a href="/donaciones/emaus-en-san-isidro" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-san-isidro" class="card__icon icon">
+                                    <img src="../assets/icon/ico-emaus.webp" alt="emaus-en-san-isidro" class="card__icon icon">
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Emaús en San Isidro</h2>
@@ -209,7 +216,7 @@
                         <a href="/donaciones/emaus-en-santiago-de-surco" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
-                                    <img src="../assets/icon/alimentos-ico.webp" alt="emaus-en-santiago-de-surco" class="card__icon icon">
+                                    <img src="../assets/icon/ico-emaus.webp" alt="emaus-en-santiago-de-surco" class="card__icon icon">
                                 </div>
                                 <div class="f-elements f-col f-elements--center">
                                     <h2 class="card__title card__title--responsive">Emaús en Santiago de Surco</h2>

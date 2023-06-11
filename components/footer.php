@@ -79,6 +79,9 @@
                             <a href="/actividades-sociales" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Actividades sociales</a>
                         </div>
                         <div class="">
+                            <a href="/donaciones" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Donaciones</a>
+                        </div>
+                        <div class="">
                             <a href="#contact" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contáctanos</a>
                         </div>
                     </div>

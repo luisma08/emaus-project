@@ -21,22 +21,21 @@
 
     <!-- HTML Meta Tags -->
     <title>▷ Donación de Cosas Usadas | Traperos de Emaús - Manos Solidarias</title>
-    <meta name="description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
-    <meta name="keywords" content="traperos, traperos de emaus, donaciones en lima, donar, donde donar, donar ropa, donacion de ropa, donacion de ropa en deuso, donar muebles, donacion de muebles, donar muebles usados, donacion de juguetes, donar articulos usados, donde donar cosas usada, donacion de ropa usada, donar artefactos, donacion de artefactos, donar electrodomesticos, donacion de electrodomesticos, donar aparatos ortopedicos, donacion de aparatos ortopedicos, donacion de aparatos tecnologicos, donacion de secadoras, donaciones en lima, reciclaje en lima, reciclar artefactos malogrados lima, reciclaje de artefactos, donar a la caridad, donaciones en lima peru, lima peru, los traperos en lima, donacion de zapatos usados en lima, donacion de calzado, donde donar zapatos, donde donar ropa, donar sillas, donacion de vienes, donar mobiliario, donaciones en lima, donacion de camas, donar colchones, donacion de colchones, donar a emaus, donaciones emaus">
+    <meta name="description" content="Apoya a quienes más lo necesitan con la donación de cosas usadas | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
 
     <!-- Facebook Meta Tags -->
-    <meta property="og:url" content="https://traperosdeemausms.org/donaciones/">
+    <meta property="og:url" content="https://traperosdeemausms.org/donaciones/donacion-de-cosas-usadas">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Traperos de Emaús - Manos Solidarias [ Donaciones ]">
-    <meta property="og:description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta property="og:title" content="Donación de Cosas Usadas | Traperos de Emaús - Manos Solidarias">
+    <meta property="og:description" content="Apoya a quienes más lo necesitan con la donación de cosas usadas | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
     <meta property="og:image" content="https://traperosdeemausms.org/donaciones/assets/img/logo/logo-emaus.webp">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="traperosdeemausms.org">
-    <meta property="twitter:url" content="https://traperosdeemausms.org/donaciones/">
-    <meta name="twitter:title" content="Traperos de Emaús - Manos Solidarias [ Donaciones ]">
-    <meta name="twitter:description" content="Traperos de Emaús - Manos Solidarias | Donación de ropa, juguetes, libros, muebles, artefactos, electrodomésticos, dinero | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
+    <meta property="twitter:url" content="https://traperosdeemausms.org/donaciones/donacion-de-cosas-usadas">
+    <meta name="twitter:title" content="Donación de Cosas Usadas | Traperos de Emaús - Manos Solidarias">
+    <meta name="twitter:description" content="Apoya a quienes más lo necesitan con la donación de cosas usadas | Ayuda humanitaria y solidaria en tu comunidad | Traperos de Emaús Manos Solidarias | Recojo a Domicilio ❤️❤️ Contáctenos [ Celular: (+51) 923995006, Teléfono: (01) 7574747 ]">
     <meta name="twitter:image" content="https://traperosdeemausms.org/donaciones/assets/img/logo/logo-emaus.webp">
 
     <!-- Meta Tags Generated via https://www.opengraph.xyz -->
@@ -50,7 +49,7 @@
         <section class="banner banner__donaciones f-elements f-elements--center">
             <div class="container">
                 <div class="f-elements f-col f-elements--center py-md">
-                    <p class="banner__title text-center py-md">Donación de Cosas Usadas</p>
+                    <h1 class="banner__title text-center py-md">Donación de Cosas Usadas</h1>
                 </div>
             </div>
         </section>
@@ -80,7 +79,7 @@
                         </p>
                         <p class="section__p">
                             Confiamos en poder contar con tu apoyo. Si deseas colaborar con aquellos 
-                            que tienen menos y unirte a esta campaña de esperanza, por favor, ponte en contacto con nosotros a través de los siguientes números de teléfono:
+                            que tienen menos y unirte a esta campaña de esperanza, por favor, ponte en <b>contacto</b> con nosotros a través de los siguientes números de teléfono:
                         </p>
                         <div class="f-elements f-col gap-sm py-md">
                             <div class="mx-responsive">
@@ -203,7 +202,6 @@
     <?php include('./components/donaciones/footer.php') ?>
     <!-- FIN -->
     
-    <script src="./js/swiper.js" type="module"></script>
     <script src="../js/header.js"></script>
 </body>
 </html>

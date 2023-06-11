@@ -18,7 +18,12 @@
     &__hover {
       transition: box-shadow 0.25s;
       transition: transform 0.25s;
+      height: 100px;
       //border: 0.0125rem solid var(--secondary-border-color);
+
+      @include desktop{
+        height: 250px;
+      }
       &:hover {
         box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);
         transform: scale(1.125);

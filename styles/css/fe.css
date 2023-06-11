@@ -765,6 +765,12 @@
 .card__hover {
   transition: box-shadow 0.25s;
   transition: transform 0.25s;
+  height: 100px;
+}
+@media (min-width: 1025px) {
+  .card__hover {
+    height: 250px;
+  }
 }
 .card__hover:hover {
   box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);

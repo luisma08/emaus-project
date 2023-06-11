@@ -26,6 +26,20 @@
     position: relative;
 }
 
+.p-responsive{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+    @include desktop{
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+}
+
 .mt-auto{
     margin-top: 1rem;
 }
@@ -116,9 +130,22 @@
     }
 }
 
+.md\:f-col{
+    @include desktop{
+        flex-direction: column;
+    }
+}
+
 .md\:f-elements--start{
     justify-content: start;
     align-items: start;
+}
+
+.md\:f-elements--center{
+    @include desktop{
+        justify-content: center;
+        align-items: center;
+    }
 }
 
 .md\:d-block{

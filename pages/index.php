@@ -91,7 +91,7 @@
                                             <img src="./assets/icon/juguetes-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
-                                            <h3 class="card__title">Donación de juguetes para niños</h3>
+                                            <h3 class="card__title card__title--secondary">Donación de juguetes para niños</h3>
                                         </div>
                                         <div class="card__footer">
                                             <div class="f-elements f-elements--center gap-md">
@@ -106,7 +106,7 @@
                                             <img src="./assets/icon/ropa-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
-                                            <h3 class="card__title">Donación de ropas en desuso</h3>
+                                            <h3 class="card__title card__title--secondary">Donación de ropas en desuso</h3>
                                         </div>
                                         <div class="card__footer">
                                             <div class="f-elements f-elements--center gap-md">
@@ -121,7 +121,7 @@
                                             <img src="./assets/icon/calzado-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
-                                            <h3 class="card__title">Donación de calzados en desuso</h3>
+                                            <h3 class="card__title card__title--secondary">Donación de calzados en desuso</h3>
                                         </div>
                                         <div class="card__footer">
                                             <div class="f-elements f-elements--center gap-md">
@@ -136,7 +136,7 @@
                                             <img src="./assets/icon/tecnologia-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
-                                            <h3 class="card__title">Donación de aparatos tecnológicos</h3>
+                                            <h3 class="card__title card__title--secondary">Donación de aparatos tecnológicos</h3>
                                         </div>
                                         <div class="card__footer">
                                             <div class="f-elements f-elements--center gap-md">
@@ -151,7 +151,7 @@
                                             <img src="./assets/icon/alimentos-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
-                                            <h3 class="card__title">Donación de víveres no perecibles</h3>
+                                            <h3 class="card__title card__title--secondary">Donación de víveres no perecibles</h3>
                                         </div>
                                         <div class="card__footer">
                                             <div class="f-elements f-elements--center gap-md">
@@ -196,7 +196,7 @@
                                             <img src="./assets/icon/muebles-ico.webp" alt="" class="icon" width="80" height="80">
                                         </div>
                                         <div class="card__body-services f-elements f-col f-elements--center">
-                                            <h3 class="card__title">Donación de muebles en desuso</h3>
+                                            <h3 class="card__title card__title--secondary">Donación de muebles en desuso</h3>
                                         </div>
                                         <div class="card__footer">
                                             <div class="f-elements f-elements--center gap-md">
@@ -594,7 +594,7 @@
             <div class="container f-elements f-col gap-md">
               <h3 class="section__title">¿Cómo donar?</h3>
               <P class="section__description">Sigue los siguientes pasos para poder realizar tu donación</P>
-              <div class="g-elements g-elements--center gap-md g-template-columns">
+              <div class="g-elements g-elements--center gap-md g-template-columns-3fr">
                 <div class="card card__services f-elements f-col f-elements--center">
                     <div class="card__img-icon f-elements f-elements--center">
                         <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="currentColor" class="bi bi-1-circle icon" viewBox="0 0 16 16">

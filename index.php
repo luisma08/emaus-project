@@ -7,7 +7,8 @@ $url = rtrim($url, '/'); // Eliminar la barra diagonal al final si existe
 $rutas = [
     '' => 'index',
     '/actividades-sociales' => 'actividades-sociales',
-    '/nosotros' => 'nosotros'
+    '/nosotros' => 'nosotros',
+    '/donaciones' => 'donaciones'
 ];
 
 // Verificar si la ruta existe en el array de rutas

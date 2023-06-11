@@ -1,11 +1,13 @@
 .card {
-    //box-shadow: 0 0 0.125rem var(--primary-shadow-color), 0 0 0.25rem var(--primary-shadow-color);
-    //border-radius: var(--primary-border-radius);
+    box-shadow: 0 0 0.125rem var(--primary-shadow-color), 0 0 0.25rem var(--primary-shadow-color);
+    border-radius: var(--primary-border-radius);
     max-width: 360px;
     overflow: hidden;
     //transition: box-shadow 0.25s;
     margin: auto;
     //transition: transform 0.25s;
+    box-sizing: border-box;
+    width: 100%;
 
     &__services {
       height: auto;
@@ -13,10 +15,15 @@
       //border: 0.0125rem solid var(--secondary-border-color);
     }
     
-    //&:hover {
-    //  box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);
-      //transform: scale(1.125);
-    //}
+    &__hover {
+      transition: box-shadow 0.25s;
+      transition: transform 0.25s;
+      //border: 0.0125rem solid var(--secondary-border-color);
+      &:hover {
+        box-shadow: 0 0 0.25rem 0 var(--third-highlight-color);
+        transform: scale(1.125);
+      }
+    }
     
     &__header,
     &__footer {
@@ -44,6 +51,20 @@
         }
 
     }
+
+    &__icon{
+      width: 50px;
+      height: 50px;
+      color: var(--primary-text-color);
+      //border-radius: 50%;
+      box-sizing: border-box;
+      mix-blend-mode: luminosity;
+
+      @include desktop{
+        width: 72px;
+        height: 72px;
+      }
+    }
     
       
     &__body {
@@ -60,14 +81,14 @@
       
     &__title {
       font-size: 1.125rem;
-      text-align: center;
       margin: 0;
-      font-weight: 700;
-      text-transform: uppercase;
+      font-weight: 700; 
       padding: 1rem 1rem;
+      text-transform: capitalize;
 
       &--primary{
         color: var(--primary-text-color);
+        text-align: center;
 
         &::before, &::after{
           color: var(--primary-text-color);
@@ -79,6 +100,19 @@
           
           &::after {
             content: ' ❤';
+        }
+      }
+
+      &--secondary{
+        text-align: center;
+      }
+
+      &--responsive{
+        color: var(--primary-text-color);
+        text-align: left;
+
+        @include desktop{
+          text-align: center;
         }
       }
     }

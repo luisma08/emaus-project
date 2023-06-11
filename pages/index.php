@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../styles/css/style.css">
-    <link rel="stylesheet" href="../styles/css/fe.css">
+    <link rel="stylesheet" href="./styles/css/style.css">
+    <link rel="stylesheet" href="./styles/css/fe.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link
       rel="stylesheet"
@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
-    <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
+    <link rel="shortcut icon" href="./assets/icon/favicon.webp" type="image/svg+xml">
 
     <!-- HTML Meta Tags -->
     <title>▷ Traperos de Emaús - Manos Solidarias [ Donaciones ]</title>
@@ -44,7 +44,7 @@
 </head>
 <body class="body"><!--v1.0-->
     <!-- Agregando componente header -->
-    <?php include('components/header.php') ?>
+    <?php include('./components/header.php') ?>
     <!-- FIN -->
 
     <main class="main">
@@ -239,162 +239,162 @@
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-1.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-1.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-2.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-2.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-3.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-3.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-4.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-4.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-5.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-5.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-6.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-6.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-7.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-7.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-8.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-8.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-9.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-9.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-10.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-10.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-11.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-11.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-12.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-12.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-13.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-13.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-14.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-14.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-15.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-15.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-16.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-16.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-17.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-17.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-18.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-18.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-19.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-19.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-20.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-20.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-21.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-21.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-22.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-22.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-23.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-23.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-24.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-24.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-25.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-25.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-26.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-26.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-27.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-27.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-28.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-28.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-29.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-29.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-30.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-30.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-31.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-31.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-32.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-32.webp" alt="" class="card__img">
                                 </div>
                             </div>
                         </div>
@@ -402,7 +402,7 @@
                         <div class="swiper-pagination mt-auto"></div>
                         -->
                     </div>
-                    <a class="button button--primary" href="./actividades-sociales.php"><i class="bi bi-balloon-heart"></i> Ver más</a>
+                    <a class="button button--primary" href="/actividades-sociales"><i class="bi bi-balloon-heart"></i> Ver más</a>
                 </div>
             </div>
         </section>
@@ -418,162 +418,162 @@
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-1.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-1.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-2.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-2.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-3.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-3.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-4.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-4.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-5.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-5.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-6.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-6.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-7.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-7.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-8.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-8.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-9.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-9.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-10.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-10.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-11.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-11.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-12.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-12.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-13.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-13.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-14.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-14.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-15.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-15.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-16.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-16.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-nav/actividad-nav-17.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-nav/actividad-nav-17.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-18.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-18.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-19.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-19.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-20.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-20.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-21.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-21.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-22.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-22.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-23.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-23.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-24.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-24.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-25.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-25.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-26.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-26.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-27.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-27.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-28.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-28.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-29.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-29.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-30.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-30.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-31.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-31.webp" alt="" class="card__img">
                                 </div>
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-32.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-32.webp" alt="" class="card__img">
                                 </div>
                             </div>
                         </div>
@@ -656,7 +656,7 @@
         
         
         <!-- Agregando componente footer -->
-        <?php include('components/contact.php') ?>
+        <?php include('./components/contact.php') ?>
         <!-- FIN -->
 
         <section class="section">
@@ -664,7 +664,7 @@
     </main>
 
     <!-- Agregando componente footer -->
-    <?php include('components/footer.php') ?>
+    <?php include('./components/footer.php') ?>
     <!-- FIN -->
     
     <script src="./js/swiper.js" type="module"></script>

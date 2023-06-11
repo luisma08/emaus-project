@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../styles/css/style.css">
-    <link rel="stylesheet" href="../styles/css/fe.css">
+    <link rel="stylesheet" href="./styles/css/style.css">
+    <link rel="stylesheet" href="./styles/css/fe.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css">
     <link
       rel="stylesheet"
@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
-    <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
+    <link rel="shortcut icon" href="./assets/icon/favicon.webp" type="image/svg+xml">
 
     <!-- HTML Meta Tags -->
     <title>▷ Nosotros | Traperos de Emaús - Manos Solidarias</title>
@@ -42,7 +42,7 @@
 <body class="body">
 
     <!-- Agregando componente header -->
-    <?php include('components/header.php') ?>
+    <?php include('./components/header.php') ?>
     <!-- FIN -->
 
     <main class="main">
@@ -133,12 +133,12 @@
         </section>
 
         <!-- Agregando componente footer -->
-        <?php include('components/contact.php') ?>
+        <?php include('./components/contact.php') ?>
         <!-- FIN -->
     </main>
 
     <!-- Agregando componente footer -->
-    <?php include('components/footer.php') ?>
+    <?php include('./components/footer.php') ?>
     <!-- FIN -->
 
     <script src="./js/swiper.js" type="module"></script>

@@ -43,7 +43,7 @@
     <div class="container">
         <nav class="nav f-elements f-elements--between" id="header-nav">
             <div class="header__container-logo">
-                <a href="./">
+                <a href="/">
                     <img src="./assets/img/logo/logo-emaus.webp" alt="logo" class="nav__logo">
                 </a>
             </div>

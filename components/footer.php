@@ -39,7 +39,7 @@
             <div class="f-elements f-col md:f-row gap-md py-md">
                 <div class="f-elements f-col w-100">
                     <div class="f-elements gap-sm mx-responsive">
-                        <a href="index.html" class="f-elements f-elements--center">
+                        <a href="./" class="f-elements f-elements--center">
                             <img src="./assets/img/logo/logo-emaus.webp" alt="logo" class="nav__logo">
                         </a>
                         <p class="footer__title footer__title--primary">Traperos de Emaús<br/> Manos Solidarias</p>
@@ -73,10 +73,10 @@
                     </div>
                     <div class="mx-responsive">
                         <div class="">
-                            <a href="nosotros.php" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> ¿Quiénes somos?</a>
+                            <a href="/nosotros" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> ¿Quiénes somos?</a>
                         </div>
                         <div class="">
-                            <a href="actividades-sociales.php" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Actividades sociales</a>
+                            <a href="/actividades-sociales" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Actividades sociales</a>
                         </div>
                         <div class="">
                             <a href="#contact" class="list list__link list__link--contact"><i class="bi bi-box-arrow-up-right"></i> Contáctanos</a>
@@ -101,7 +101,7 @@
                     ©2023 Traperos de Emaús Manos Solidarias.
                 </p>
                 <p class="footer__description footer__description--primary">
-                    Desarrollado por <a href="https://www.mavoagenciadigital.com/" target="_blank" class="list list__link list__link--contact">Mavo Agencia Digital</a> - Todos los derechos Reservados.
+                    Desarrollado por <a href="https://www.mavoagenciadigital.com/" target="_blank" class="list list__link list__link--contact">MAVO</a> - Todos los derechos Reservados.
                 </p>
             </div>
             <nav class="">

@@ -17,7 +17,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- ICON -->
-    <link rel="shortcut icon" href="assets/icon/favicon.webp" type="image/svg+xml">
+    <link rel="shortcut icon" href="./assets/icon/favicon.webp" type="image/svg+xml">
 
     <!-- HTML Meta Tags -->
     <title>▷ Actividades Sociales</title>
@@ -44,7 +44,7 @@
 <body class="body">
 
     <!-- Agregando componente header -->
-    <?php include('components/header.php') ?>
+    <?php include('./components/header.php') ?>
     <!-- FIN -->
 
     <main class="main">
@@ -61,122 +61,6 @@
             </div>
         </section>
 
-        <!-- plantilla
-
-        <section class="section" id="projects">
-            <div class="container f-elements f-col gap-md">
-                <h2 class="section__title">Tu donacion se convierte en Actividades Sociales</h2>
-                <div class="f-elements f-col f-elements--center">
-                    <div class="swiper mySwiper4"">
-                        <div class="swiper-wrapper">
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/cbazan-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Ilustración de personajes, diseño y desarrollo de página web con formulario para obtención de leads.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/recomendacion-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Recomendaciones Banahosting</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de Landing pages
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/reservacanchita-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Reserva tu canchita</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de página web especializa en reserva de canchitas deportivas.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/cbazan-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Ilustración de personajes, diseño y desarrollo de página web con formulario para obtención de leads.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/recomendacion-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Recomendaciones Banahosting</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de Landing pages
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/reservacanchita-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Reserva tu canchita</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de página web especializa en reserva de canchitas deportivas.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/cbazan-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Cbazan</h3>
-                                        <p class="card__text">
-                                            Ilustración de personajes, diseño y desarrollo de página web con formulario para obtención de leads.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/recomendacion-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Recomendaciones Banahosting</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de Landing pages
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="swiper-slide">
-                                <div class="card">
-                                    <img src="assets/img/reservacanchita-th (2).webp" alt="cineverse" class="card__img">
-                                    <div class="card__body f-elements f-col f-elements--center gap-sm">
-                                        <h3 class="card__title">Reserva tu canchita</h3>
-                                        <p class="card__text">
-                                            Diseño y desarrollo de página web especializa en reserva de canchitas deportivas.
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="swiper-pagination mt-auto"></div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        -->
-
         <!--  Actividades Sociales  -->
 
         <section class="section" id="projects">
@@ -188,7 +72,7 @@
                         <div class="swiper-wrapper">
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-49.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-49.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación de útiles escolares - Colegio Juan XXIII - Andahuaylas</h3>
                                     </div>
@@ -196,7 +80,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-50.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-50.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación de armario en Centro de salud mental - Villa El Salvador</h3>
                                     </div>
@@ -204,7 +88,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-51.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-51.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación de útiles escolares y víveres - Olla común José Gálvez - Villa María Del Triunfo</h3>
                                     </div>
@@ -212,7 +96,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-52.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-52.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación de víveres y calaminas comedor Jicamarca - San Juan De Lurigancho</h3>
                                     </div>
@@ -220,7 +104,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-53.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-53.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación para familias en Jicamarca - San Juan De Lurigancho</h3>
                                     </div>
@@ -228,7 +112,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-33.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-33.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Olla común em el distrito de Villa María del Triunfo, en el AA.HH Divino Niño Jesus</h3>
                                     </div>
@@ -236,7 +120,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-34.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-34.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación en el asentamiento Humano asociación de viviendas y jardines del valle - Villa María del Triunfo</h3>
                                     </div>
@@ -244,7 +128,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-35.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-35.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Olla común em el distrito de Villa María del Triunfo, en el AA.HH Divino Niño Jesus</h3>
                                     </div>
@@ -252,7 +136,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-36.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-36.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Asentamiento Humano 12 de Abril Olla Común José Gálvez - Villa María del Triunfo</h3>
                                     </div>
@@ -260,7 +144,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-37.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-37.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Asentamiento Humano 10 de Octubre San Gabriel Alto - Villa María del Triunfo</h3>
                                     </div>
@@ -268,7 +152,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-38.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-38.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donaciones de canastas familiares (viveres) en el AA. HH. Circunvalación</h3>
                                     </div>
@@ -276,7 +160,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-39.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-39.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Programa Virgen del Chapi de Villa Ciclo I. Loma de corvina Villa el Salvador</h3>
                                     </div>
@@ -284,7 +168,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-40.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-40.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Olla común en el distrito de Villa Maria del Triunfo, en el AA. HH. Cristo Salvador</h3>
                                     </div>
@@ -292,7 +176,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-41.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-41.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donaciones de Víveres - A.A.H.H. 10 de Octubre San Gabriel Alto VMT</h3>
                                     </div>
@@ -300,7 +184,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-42.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-42.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación de Víveres - Olla Común Los resilentes S.J.L.</h3>
                                     </div>
@@ -308,7 +192,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-43.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-43.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación de Víveres - Olla Común Villa María</h3>
                                     </div>
@@ -316,7 +200,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-44.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-44.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación Navideña - Ayacucho Veracruz</h3>
                                     </div>
@@ -324,7 +208,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-45.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-45.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación Navideña - Olla Común Dios es Amor V.M.T.</h3>
                                     </div>
@@ -332,7 +216,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-46.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-46.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación Navideña - Olla Común Los Resilentes S.J.L.</h3>
                                     </div>
@@ -340,7 +224,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-47.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-47.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación Navideña - Olla Común 8 de Octubre Nueva esperanza V.M.T.</h3>
                                     </div>
@@ -348,7 +232,7 @@
                             </div>
                             <div class="swiper-slide">
                                 <div class="card border">
-                                    <img src="assets/img/actividades-sociales/actividades-sociales-48.webp" alt="" class="card__img">
+                                    <img src="./assets/img/actividades-sociales/actividades-sociales-48.webp" alt="" class="card__img">
                                     <div class="card__body f-elements f-col f-elements--center gap-sm">
                                         <h3 class="card__title card__title--primary">Donación Olla Común Vallecito Alto V.M.T. - Colchas y Kits Escolares</h3>
                                     </div>
@@ -375,12 +259,12 @@
         </section>
 
         <!-- Agregando componente footer -->
-        <?php include('components/contact.php') ?>
+        <?php include('./components/contact.php') ?>
         <!-- FIN -->
     </main>
 
     <!-- Agregando componente footer -->
-    <?php include('components/footer.php') ?>
+    <?php include('./components/footer.php') ?>
     <!-- FIN -->
 
     <script src="./js/swiper.js" type="module"></script>

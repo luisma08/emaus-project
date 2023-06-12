@@ -106,7 +106,7 @@
                                 </div>
                             </div>
                         </a>
-                        <a href="/donaciones/donacion-de-" class="card__link">
+                        <a href="/donaciones/donacion-de-electrodomesticos" class="card__link">
                             <div class="card card__hover f-elements md:f-col md:f-elements--center gap-sm bg-green p-responsive">
                                 <div class="f-elements f-elements--center">
                                     <img src="../assets/icon/electrodomestico-ico.webp" alt="donacion-de-electrodomesticos" class="card__icon icon">
